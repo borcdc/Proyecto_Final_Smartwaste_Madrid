@@ -1,0 +1,1001 @@
+TIPO_DATO,IDENTIFICADOR_MINT,COD_ELEMENTO,COD_NDP,DIRECCION_COMPLETA,DIRECCION_AUXILIAR,CENTRO,COD_VIAL,CLASE_VIAL,PARTICULAS_VIAL,NOMBRE_VIAL,TIPO_NÚMERO,NÚMERO,COD_BARRIO,cod,DISTRITO,UTMX,UTMY,LATITUD,LONGITUD,HORARIO,OBSERVACIONES,CreationDate,Creator,EditDate,Editor,ObjectId
+Contenedor de Ropa,,,,"CALLE DE LEGANITOS, 47",,,,,,,,,,,Centro,,,40.42299073,-3.71103722,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,1
+Contenedor de Ropa,,,,"AVENIDA DE LA GRAN VIA DE SAN FRANCISCO, 21",,,,,,,,,,,Centro,,,40.40996568,-3.71390117,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,2
+Contenedor de Ropa,,,,"RONDA DE SEGOVIA, 2",,,,,,,,,,,Centro,,,40.4113676,-3.71831698,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,3
+Contenedor de Ropa,,,,"PLAZA DE GABRIEL MIRO, 5",,,,,,,,,,,Centro,,,40.41208545,-3.71476911,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,4
+Contenedor de Ropa,,,,"CALLE DE SILVA, 2",,,,,,,,,,,Centro,,,40.42056096,-3.70811853,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,5
+Contenedor de ropa,,,,"PLAZA DEL CAMPILLO DEL MUNDO NUEVO, 3",,Mercadillo en la vía pública de Parque de la Cornisa ,,,,,,,,,Centro,,,40.4065,-3.70798,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,6
+Contenedor de ropa,,,,"CALLE DEL CASINO, 12",,Punto limpio de proximidad - Parque Casino de la Reina,,,,,,,,,Centro,,,40.40676001,-3.70502994,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,7
+Contenedor de Ropa,,,,"CALLE DE ARGUMOSA, 32",,,,,,,,,,,Centro,,,40.40720815,-3.69572495,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,8
+Contenedor de Ropa,,,,"CALLE DE MIGUEL SERVET, 23",,,,,,,,,,,Centro,,,40.40584528,-3.70202564,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,9
+Contenedor de Ropa,,,,"RONDA DE VALENCIA, 2",,,,,,,,,,,Centro,,,40.40586161,-3.69993601,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,10
+Contenedor de Ropa,,,,"CALLE DE SANTA ISABEL, 48",,,,,,,,,,,Centro,,,40.4096193,-3.69640575,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,11
+Contenedor de Ropa,,,,"CALLE DE ATOCHA, 108",en la acera,,,,,,,,,,Centro,,,40.40978761,-3.69396823,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,12
+Contenedor de Ropa,,,,"GLORIETA DE LA PUERTA DE TOLEDO, 1",,,,,,,,,,,Centro,,,40.40710644,-3.71123007,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,13
+Contenedor de Ropa,,,,"CALLE DE FUENCARRAL, 96",,,,,,,,,,,Centro,,,40.42770573,-3.70176068,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,14
+Contenedor de Ropa,,,,"CALLE DE LAS INFANTAS, 24",en la acera,,,,,,,,,,Centro,,,40.4206757,-3.69947314,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,15
+Contenedor de Ropa,,,,"CALLE DEL BARQUILLO, 15",,,,,,,,,,,Centro,,,40.42141414,-3.69569299,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,16
+Contenedor de Ropa,,,,"CALLE DEL ALMIRANTE, 14",,,,,,,,,,,Centro,,,40.42248433,-3.69402037,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,17
+Contenedor de Ropa,,,,"CALLE DE BARBARA DE BRAGANZA, 13",,,,,,,,,,,Centro,,,40.42334414,-3.69192137,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,18
+Contenedor de Ropa,,,,"PLAZA DE LAS SALESAS, 9",,,,,,,,,,,Centro,,,40.42404647,-3.69476833,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,19
+Contenedor de Ropa,,,,"CALLE DE FERNANDO VI, 17",,,,,,,,,,,Centro,,,40.42510029,-3.6960094,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,20
+Contenedor de Ropa,,,,"CALLE DE MEJIA LEQUERICA, 2",,,,,,,,,,,Centro,,,40.42620027,-3.69739989,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,21
+Contenedor de Ropa,,,,"CALLE DEL GENERAL CASTAÑOS, 6",en la acera,,,,,,,,,,Centro,,,40.42630991,-3.69351826,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,22
+Contenedor de Ropa,,,,"CALLE DE AUGUSTO FIGUEROA, 27",,,,,,,,,,,Centro,,,40.4224693,-3.69858517,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,23
+Contenedor de Ropa,,,,"CALLE DE SERRANO ANGUITA, 18",,,,,,,,,,,Centro,,,40.42797315,-3.69922839,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,24
+Contenedor de Ropa,,,,"CALLE DE BARCELO, 2",,,,,,,,,,,Centro,,,40.42676558,-3.69962033,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,25
+Contenedor de Ropa,,,,"CALLE DE AUGUSTO FIGUEROA, 27",,,,,,,,,,,Centro,,,40.42246699,-3.69857837,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,26
+Contenedor de Ropa,,,,"CALLE DE CAMPOAMOR, 16",,,,,,,,,,,Centro,,,40.42638682,-3.69543032,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,27
+Contenedor de Ropa,,,,"CALLE DE GRAVINA, 14",,,,,,,,,,,Centro,,,40.42274083,-3.69689491,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,28
+Contenedor de ropa,,,,"CALLE DE SANTA CRUZ DE MARCENADO, 23",,Cantón de Limpieza,,,,,,,,,Centro,,,40.42895598,-3.71065699,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,29
+Contenedor de Ropa,,,,"CALLE DE SAN BERNARDO, 38",,,,,,,,,,,Centro,,,40.42385736,-3.70738916,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,30
+Contenedor de Ropa,,,,"CALLE DE MANUELA MALASAÑA, 9",,,,,,,,,,,Centro,,,40.428578,-3.70307984,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,31
+Contenedor de Ropa,,,,"CALLE DE RUIZ, 21",,,,,,,,,,,Centro,,,40.42898822,-3.70374205,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,32
+Contenedor de Ropa,,,,"PLAZA DE LOS MOSTENSES, 1",,Mercado de Los Mostenses,,,,,,,,,Centro,,,40.4234061,-3.70892461,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,33
+Contenedor de Ropa,,,,"CALLE DEL DESENGAÑO, 16",,,,,,,,,,,Centro,,,40.42091467,-3.70348241,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,34
+Contenedor de Ropa,,,,"CALLE DE VALVERDE, 26",,,,,,,,,,,Centro,,,40.42215719,-3.70167734,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,35
+Contenedor de Ropa,,,,"CALLE DEL PEZ, 6",,,,,,,,,,,Centro,,,40.42290503,-3.704171,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,36
+Contenedor de Ropa,,,,"CALLE DEL DUQUE DE LIRIA, 6",,,,,,,,,,,Centro,,,40.42625279,-3.712429,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,37
+Contenedor de Ropa,,,,"CALLE DE LOS REYES, 7",enfrente,,,,,,,,,,Centro,,,40.42432675,-3.70893023,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,38
+Contenedor de Ropa,,,,"CALLE DE SAN LEONARDO, 14",,,,,,,,,,,Centro,,,40.42453741,-3.71148356,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,39
+Contenedor de Ropa,,,,"PLAZA DE LAS COMENDADORAS, 9",,,,,,,,,,,Centro,,,40.42718873,-3.70934136,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,40
+Contenedor de Ropa,,,,"CALLE DE SAN BERNARDO, 77",,,,,,,,,,,Centro,,,40.42732695,-3.70646646,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,41
+Contenedor de Ropa,,,,"CALLE DE SAN BERNARDO, 89",,,,,,,,,,,Centro,,,40.42878202,-3.70614619,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,42
+Contenedor de Ropa,,,,"CALLE DEL CONDE DUQUE, 46",,,,,,,,,,,Centro,,,40.42940373,-3.70907051,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,43
+Contenedor de Ropa,,,,"CALLE DE AMANIEL, 40",,,,,,,,,,,Centro,,,40.42836149,-3.70954449,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,44
+Contenedor de Ropa,,,,"CALLE DE LOS MARTIRES DE ALCALA, 6",,,,,,,,,,,Centro,,,40.42816295,-3.71333482,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,45
+Contenedor de Ropa,,,,"CALLE DE SERRANO JOVER, 1",,,,,,,,,,,Centro,,,40.42934592,-3.71474313,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,46
+Contenedor de Ropa,,,,"CALLE DE BALTASAR GRACIAN, 6",,,,,,,,,,,Centro,,,40.42971042,-3.7105949,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,47
+Contenedor de Ropa,,,,"CALLE DEL ESPIRITU SANTO, 19",en la acera,,,,,,,,,,Centro,,,40.42543421,-3.70422736,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,48
+Contenedor de ropa,,,,"PASEO   IMPERIAL, 50",,,,,,,,,,,Arganzuela,,,40.40153005,-3.71535994,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,49
+Contenedor de ropa,,,,"CALLE DE TOLEDO, 122",,,,,,,,,,,Arganzuela,,,40.40579975,-3.71239052,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,50
+Contenedor de ropa,,,,"PASEO DE LOS PONTONES, 14",,,,,,,,,,,Arganzuela,,,40.40451492,-3.71713522,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,51
+Contenedor de ropa,,,,"PASEO DE LOS PONTONES, 20",,,,,,,,,,,Arganzuela,,,40.40442982,-3.71787016,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,52
+Contenedor de ropa,,,,"PASEO DE LOS MELANCOLICOS, 18",,,,,,,,,,,Arganzuela,,,40.40499819,-3.7206417,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,53
+Contenedor de ropa,,,,"PASEO   IMPERIAL, 20",,"Centro Deportivo Municipal ""Marqués de Samaranch""",,,,,,,,,Arganzuela,,,40.40762039,-3.71735957,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,54
+Contenedor de ropa,,,,"PASEO   IMPERIAL, 12",,,,,,,,,,,Arganzuela,,,40.40904013,-3.71780953,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,55
+Contenedor de ropa,,,,"PASEO DE LOS MELANCOLICOS, 6",,,,,,,,,,,Arganzuela,,,40.40961018,-3.71914973,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,56
+Contenedor de ropa,,,,"CALLE DE JUAN DUQUE, 24",,,,,,,,,,,Arganzuela,,,40.41172941,-3.71942906,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,57
+Contenedor de ropa,,,,"PASEO DE LA VIRGEN DEL PUERTO, 59",esquina calle Mármol,,,,,,,,,,Arganzuela,,,40.4053857,-3.72216292,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,58
+Contenedor de ropa,,,,"PASEO DE LA VIRGEN DEL PUERTO, 11",,,,,,,,,,,Arganzuela,,,40.41307556,-3.72103114,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,59
+Contenedor de ropa,,,,"RONDA DE SEGOVIA, 20",,,,,,,,,,,Arganzuela,,,40.40840214,-3.71649728,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,60
+Contenedor de ropa,,,,"CALLE DE COBOS DE SEGOVIA, 5",,,,,,,,,,,Arganzuela,,,40.40612658,-3.71895792,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,61
+Contenedor de ropa,,,,"PASEO DE JUAN ANTONIO VALLEJO-NAJERA BOTAS, 59",,,,,,,,,,,Arganzuela,,,40.40389518,-3.71526041,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,62
+Contenedor de ropa,,,,"PASEO DE LOS MELANCOLICOS, 23",frente,,,,,,,,,,Arganzuela,,,40.40615257,-3.7206006,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,63
+Contenedor de ropa,,,,"PASEO DE LAS YESERIAS, 43",,,,,,,,,,,Arganzuela,,,40.39773955,-3.70663056,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,64
+Contenedor de ropa,,,,"CALLE DE ARGANDA, 28",,,,,,,,,,,Arganzuela,,,40.40039032,-3.70673016,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,65
+Contenedor de ropa,,,,"PASEO DE LA ESPERANZA, 45",,,,,,,,,,,Arganzuela,,,40.39897996,-3.70281024,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,66
+Contenedor de ropa,,,,"CALLE DEL LABRADOR, 20",frente,,,,,,,,,,Arganzuela,,,40.40144967,-3.70260967,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,67
+Contenedor de ropa,,,,"CALLE DE MARTIN DE VARGAS, 1",,,,,,,,,,,Arganzuela,,,40.40442972,-3.70293056,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,68
+Contenedor de ropa,,,,"RONDA DE TOLEDO, 36",,,,,,,,,,,Arganzuela,,,40.40523984,-3.70481986,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,69
+Contenedor de ropa,,,,"PASEO DE LA ESPERANZA, 8",,,,,,,,,,,Arganzuela,,,40.4025603,-3.70618955,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,70
+Contenedor de ropa,,,,"CALLE DE ARGANDA, 42",,"Centro Deportivo Municipal ""Peñuelas""",,,,,,,,,Arganzuela,,,40.39914644,-3.70561467,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,71
+Contenedor de ropa,,,,"PASEO DE JUAN ANTONIO VALLEJO-NAJERA BOTAS, 31",,,,,,,,,,,Arganzuela,,,40.40227967,-3.70993996,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,72
+Contenedor de ropa,,,,"CALLE DE MELILLA, 5",,,,,,,,,,,Arganzuela,,,40.40194023,-3.71020037,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,73
+Contenedor de ropa,,,,"CALLE DE CARMEN COBEÑA, 3",,,,,,,,,,,Arganzuela,,,40.40135018,-3.71077984,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,74
+Contenedor de ropa,,,,"CALLE DE TOLEDO, 167",,,,,,,,,,,Arganzuela,,,40.40261007,-3.71319949,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,75
+Contenedor de ropa,,,,"PASEO DE LOS OLMOS, 8",,,,,,,,,,,Arganzuela,,,40.40552023,-3.71125975,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,76
+Contenedor de ropa,,,,"CALLE DE MORATINES, 15",,,,,,,,,,,Arganzuela,,,40.40290919,-3.70313382,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,77
+Contenedor de ropa,,,,"CALLE DE MELILLA, 21",,,,,,,,,,,Arganzuela,,,40.40111627,-3.70984617,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,78
+Contenedor de ropa,,,,"PASEO DE LA CHOPERA, 10",,"Junta Municipal Distrito ""Casa del Reloj"" ",,,,,,,,,Arganzuela,,,40.39303102,-3.69903582,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,79
+Contenedor de ropa,,,,"CALLE DE JAIME EL CONQUISTADOR, 33",,,,,,,,,,,Arganzuela,,,40.39441038,-3.69822978,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,80
+Contenedor de ropa,,,,"CALLE DEL GENERAL PALANCA, 18",,,,,,,,,,,Arganzuela,,,40.3994002,-3.69857947,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,81
+Contenedor de ropa,,,,"PASEO DE LA CHOPERA, 21",,,,,,,,,,,Arganzuela,,,40.3958399,-3.7014373,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,82
+Contenedor de ropa,,,,"PASEO DE LA CHOPERA, 39",,,,,,,,,,,Arganzuela,,,40.3946463,-3.69968095,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,83
+Contenedor de ropa,,,,"CALLE DE GUILLERMO DE OSMA, 15",frente,,,,,,,,,,Arganzuela,,,40.3938434,-3.69656215,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,84
+Contenedor de ropa,,,,"CALLE DE JAIME EL CONQUISTADOR, 9",,,,,,,,,,,Arganzuela,,,40.39752725,-3.69798551,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,85
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE LA CRUZ VERDE, 52",,,,,,,,,,,Arganzuela,,,40.38516785,-3.68677717,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,86
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE BEJAR, 5",frente,,,,,,,,,,Arganzuela,,,40.38785956,-3.68775987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,87
+Contenedor de ropa,,,,"CALLE DEL BRONCE, 32",esquina calle Embajadores,,,,,,,,,,Arganzuela,,,40.38795031,-3.69021968,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,88
+Contenedor de ropa,,,,"CALLE DEL TENIENTE CORONEL NOREÑA, 47",,,,,,,,,,,Arganzuela,,,40.38730993,-3.69184964,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,89
+Contenedor de ropa,,,,"CALLE DE RICARDO DAMAS, 4",,"Instalación Deportiva Municipal Básica ""Ricardo Damas""",,,,,,,,,Arganzuela,,,40.3854922,-3.69214483,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,90
+Contenedor de ropa,,,,"CALLE DE EMBAJADORES, 218",,,,,,,,,,,Arganzuela,,,40.39000997,-3.69244989,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,91
+Contenedor de ropa,,,,"CALLE DE LA ANTRACITA, 11",,,,,,,,,,,Arganzuela,,,40.39103974,-3.68836956,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,92
+Contenedor de ropa,,,,"CALLE DE MENDEZ ALVARO, 74",,,,,,,,,,,Arganzuela,,,40.39410024,-3.67920998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,93
+Contenedor de ropa,,,,"CALLE DEL PLOMO, 5",frente,,,,,,,,,,Arganzuela,,,40.39179136,-3.68958187,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,94
+Contenedor de ropa,,,,"CALLE DEL PLANETA TIERRA, 4",,,,,,,,,,,Arganzuela,,,40.39225631,-3.67930904,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,95
+Contenedor de ropa,,,,"CALLE DE EMBAJADORES, 294",frente,,,,,,,,,,Arganzuela,,,40.38515867,-3.68891938,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,96
+Contenedor de ropa,,,,"CALLE DE ALGETE, 2",,,,,,,,,,,Arganzuela,,,40.38906674,-3.6944287,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,97
+Contenedor de Ropa,,,,"CALLE DE JULIAN RABANEDO, 36",,,,,,,,,,,Arganzuela,,,40.38780782,-3.69417721,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,98
+Contenedor de ropa,,,,"CALLE DEL PARROCO EUSEBIO CUENCA, 44",,,,,,,,,,,Arganzuela,,,40.39550017,-3.68896998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,99
+Contenedor de ropa,,,,"CALLE DE ALICANTE, 14",,"Centro Deportivo Municipal Arganzuela ""La Fundi""",,,,,,,,,Arganzuela,,,40.39432973,-3.69126046,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,100
+Contenedor de ropa,,,,"CALLE DE EMBAJADORES, 175",,,,,,,,,,,Arganzuela,,,40.39263967,-3.69351018,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,101
+Contenedor de ropa,,,,"PASEO DE LAS DELICIAS, 123",,,,,,,,,,,Arganzuela,,,40.39283001,-3.69467038,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,102
+Contenedor de ropa,,,,"PASEO DE LAS DELICIAS, 67",,,,,,,,,,,Arganzuela,,,40.39793966,-3.69382026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,103
+Contenedor de ropa,,,,"CALLE DEL FERROCARRIL, 25",,,,,,,,,,,Arganzuela,,,40.40073039,-3.69669762,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,104
+Contenedor de ropa,,,,"CALLE DE BUSTAMANTE, 39",esquina calle Villa del Prado,,,,,,,,,,Arganzuela,,,40.40043187,-3.68675444,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,105
+Contenedor de ropa,,,,"CALLE DE RAMIREZ DE PRADO, 7",frente,,,,,,,,,,Arganzuela,,,40.39928303,-3.68752764,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,106
+Contenedor de ropa,,,,"CALLE DE MENDEZ ALVARO, 60",,,,,,,,,,,Arganzuela,,,40.39641971,-3.68156994,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,107
+Contenedor de ropa,,,,"CALLE DE LA ESTRELLA DENEBOLA, 5",,Punto Limpio Fijo,,,,,,,,,Arganzuela,,,40.39413398,-3.68335641,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,108
+Contenedor de ropa,,,,"CALLE DE BOLIVAR, 13",,,,,,,,,,,Arganzuela,,,40.39242389,-3.69149701,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,109
+Contenedor de ropa,,,,"CALLE DE EMBAJADORES, 157",,,,,,,,,,,Arganzuela,,,40.39581003,-3.69559901,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,110
+Contenedor de ropa,,,,"CALLE DE LA ESTRELLA DENEBOLA, 10",,,,,,,,,,,Arganzuela,,,40.39572558,-3.68479816,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,111
+Contenedor de ropa,,,,"CALLE DE PALOS DE LA FRONTERA, 42",,,,,,,,,,,Arganzuela,,,40.40254996,-3.69405968,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,112
+Contenedor de ropa,,,,"PASEO DE SANTA MARIA DE LA CABEZA, 32",,,,,,,,,,,Arganzuela,,,40.40461964,-3.69595944,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,113
+Contenedor de ropa,,,,"PASEO DE SANTA MARIA DE LA CABEZA, 11",,,,,,,,,,,Arganzuela,,,40.40616604,-3.69437054,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,114
+Contenedor de ropa,,,,"CALLE DEL GENERAL LACY, 1",,,,,,,,,,,Arganzuela,,,40.40453026,-3.69043026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,115
+Contenedor de ropa,,,,"CALLE DEL ANCORA, 20",,,,,,,,,,,Arganzuela,,,40.40262974,-3.6914196,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,116
+Contenedor de ropa,,,,"CALLE DE LAS CANARIAS, 54",,,,,,,,,,,Arganzuela,,,40.40159977,-3.6898005,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,117
+Contenedor de ropa,,,,"CALLE DE EMBAJADORES, 75",,,,,,,,,,,Arganzuela,,,40.40321027,-3.70078958,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,118
+Contenedor de ropa,,,,"CALLE DE FRAY LUIS DE LEON, 11",frente,,,,,,,,,,Arganzuela,,,40.4042436,-3.69824512,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,119
+Contenedor de Ropa,,,,"PASEO DE SANTA MARIA DE LA CABEZA, 43",esquina calle Martín Soler,Mercado de Santa María de la Cabeza,,,,,,,,,Arganzuela,,,40.40274875,-3.69752418,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,120
+Contenedor de ropa,,,,"CALLE DE LA RETAMA, 7",,,,,,,,,,,Arganzuela,,,40.39382799,-3.67635778,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,121
+Contenedor de ropa,,,,"PASEO DE LA REINA CRISTINA, 24",,,,,,,,,,,Retiro,,,40.40697185,-3.6810052,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,122
+Contenedor de ropa,,,,"CALLE DE VALDERRIVAS, 27",,,,,,,,,,,Retiro,,,40.40534121,-3.67723219,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,123
+Contenedor de ropa,,,,"CALLE DE ABTAO, 20",,,,,,,,,,,Retiro,,,40.40468654,-3.6756415,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,124
+Contenedor de ropa,,,,"CALLE DE CAVANILLES, 27",,,,,,,,,,,Retiro,,,40.40583986,-3.67508995,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,125
+Contenedor de ropa,,,,"CALLE DE SANCHEZ BARCAIZTEGUI, 43",,,,,,,,,,,Retiro,,,40.40655984,-3.67272961,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,126
+Contenedor de ropa,,,,"CALLE DE LA REGALADA, 7",,,,,,,,,,,Retiro,,,40.40450382,-3.67422514,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,127
+Contenedor de ropa,,,,"CALLE DE LEON GIL DE PALACIO, 2",,,,,,,,,,,Retiro,,,40.40282899,-3.67914368,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,128
+Contenedor de ropa,,,,"CALLE DE TELLEZ, 13",,,,,,,,,,,Retiro,,,40.40312853,-3.68098261,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,129
+Contenedor de ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 134",esquina calle Santa Sabina,,,,,,,,,,Retiro,,,40.40613316,-3.67096432,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,130
+Contenedor de Ropa,,,,"PASEO DE LA INFANTA ISABEL, 29",,,,,,,,,,,Retiro,,,40.40628414,-3.68561745,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,131
+Contenedor de Ropa,,,,"AVENIDA DE MENENDEZ PELAYO, 123",,,,,,,,,,,Retiro,,,40.40454384,-3.68060395,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,132
+Contenedor de Ropa,,,,"CALLE DE SANCHEZ BARCAIZTEGUI, 4",,,,,,,,,,,Retiro,,,40.40260304,-3.67582254,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,133
+Contenedor de Ropa,,,,"CALLE DE LAS COCHERAS, 6",,,,,,,,,,,Retiro,,,40.40039022,-3.67677849,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,134
+Contenedor de ropa,,,,"AVENIDA DE LA CIUDAD DE BARCELONA, 208",,,,,,,,,,,Retiro,,,40.39972601,-3.67212541,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,135
+Contenedor de ropa,,,,"CALLE DE LUIS PEIDRO, 2",,Centro Sociocultural Luis Peidro,,,,,,,,,Retiro,,,40.39700253,-3.67352461,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,136
+Contenedor de ropa,,,,"CALLE DE MARTINEZ CORROCHANO, 41",,Polideportivo,,,,,,,,,Retiro,,,40.40385596,-3.66877567,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,137
+Contenedor de Ropa,,,,"CALLE DE VALDERRIVAS, 50",,,,,,,,,,,Retiro,,,40.40276088,-3.67219879,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,138
+Contenedor de Ropa,,,,"CALLE DE FEDERICO MORENO TORROBA, 9",,,,,,,,,,,Retiro,,,40.40521407,-3.66730922,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,139
+Contenedor de ropa,,,,"CALLE DE SIRIO, 30",,,,,,,,,,,Retiro,,,40.4118504,-3.66422404,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,140
+Contenedor de ropa,,,,"CALLE DE LA LIRA, 8",,,,,,,,,,,Retiro,,,40.40847971,-3.66899534,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,141
+Contenedor de ropa,,,,"AVENIDA DEL MEDITERRANEO, 47",,,,,,,,,,,Retiro,,,40.40691597,-3.66856719,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,142
+Contenedor de ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 163",,,,,,,,,,,Retiro,,,40.40819195,-3.66989714,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,143
+Contenedor de ropa,,,,"CALLE DE LOS ASTROS, 5",esquina calle Los Astros,,,,,,,,,,Retiro,,,40.41197235,-3.66862124,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,144
+Contenedor de ropa,,,,"CALLE DE LA ESTRELLA POLAR, 9",,,,,,,,,,,Retiro,,,40.41142432,-3.66673617,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,145
+Contenedor de ropa,,,,"CALLE DEL PEZ AUSTRAL, 14",esquina calle Estrella Polar,,,,,,,,,,Retiro,,,40.41187632,-3.66587306,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,146
+Contenedor de ropa,,,,"CALLE DEL PEZ VOLADOR, 38",,,,,,,,,,,Retiro,,,40.41386666,-3.66293074,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,147
+Contenedor de ropa,,,,"CALLE DEL MARQUES DE LOZOYA, 3",,,,,,,,,,,Retiro,,,40.41669047,-3.66490707,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,148
+Contenedor de ropa,,,,"CALLE DEL MARQUES DE LOZOYA, 46",,,,,,,,,,,Retiro,,,40.41767255,-3.66454604,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,149
+Contenedor de ropa,,,,"CALLE DEL ALCALDE SAINZ DE BARANDA, 95",,,,,,,,,,,Retiro,,,40.41812756,-3.66756922,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,150
+Contenedor de ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 111",,,,,,,,,,,Retiro,,,40.41406567,-3.66934302,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,151
+Contenedor de Ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 155",,,,,,,,,,,Retiro,,,40.40933517,-3.66981149,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,152
+Contenedor de Ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 77",,,,,,,,,,,Retiro,,,40.41884864,-3.66903303,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,153
+Contenedor de Ropa,,,,"CALLE DE SALIENTE, 6",,,,,,,,,,,Retiro,,,40.41980379,-3.66635833,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,154
+Contenedor de ropa,,,,"CALLE DE ANTONIO ARIAS, 2",,,,,,,,,,,Retiro,,,40.41771697,-3.67160756,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,155
+Contenedor de ropa,,,,"CALLE DEL DOCTOR ESQUERDO, 60",,,,,,,,,,,Retiro,,,40.41681565,-3.66964385,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,156
+Contenedor de ropa,,,,"CALLE DE IBIZA, 15",,,,,,,,,,,Retiro,,,40.4186214,-3.67694972,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,157
+Contenedor de ropa,,,,"CALLE DE MAIQUEZ, 50",,,,,,,,,,,Retiro,,,40.41748252,-3.67356354,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,158
+Contenedor de ropa,,,,"CALLE DE NARVAEZ, 38",,,,,,,,,,,Retiro,,,40.4205387,-3.67624246,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,159
+Contenedor de ropa,,,,"CALLE DE NARVAEZ, 74",,,,,,,,,,,Retiro,,,40.41731998,-3.67656019,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,160
+Contenedor de ropa,,,,"CALLE DEL DOCE DE OCTUBRE, 19",,,,,,,,,,,Retiro,,,40.41600546,-3.67492822,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,161
+Contenedor de ropa,,,,"CALLE DE O`DONNELL, 18",,,,,,,,,,,Retiro,,,40.42139998,-3.67700987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,162
+Contenedor de Ropa,,,,"CALLE DE MAIQUEZ, 36",,,,,,,,,,,Retiro,,,40.41895101,-3.67301028,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,163
+Contenedor de ropa,,,,"CALLE DE ALFONSO XI, 11",,,,,,,,,,,Retiro,,,40.41751148,-3.69034347,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,164
+Contenedor de Ropa,,,,"CALLE DE ALFONSO XI, 1",,,,,,,,,,,Retiro,,,40.41922784,-3.69054631,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,165
+Contenedor de Ropa,,,,"CALLE DE RUIZ DE ALARCON, 15",,,,,,,,,,,Retiro,,,40.4154566,-3.69145954,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,166
+Contenedor de Ropa,,,,"CALLE DE LA ACADEMIA, 11",,,,,,,,,,,Retiro,,,40.41478897,-3.68938449,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,167
+Contenedor de Ropa,,,,"CALLE DE MORETO, 12",,,,,,,,,,,Retiro,,,40.41295856,-3.69037614,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,168
+Contenedor de Ropa,,,,"CALLE DE ALFONSO XII, 9",,,,,,,,,,,Retiro,,,40.40817764,-3.68853495,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,169
+Contenedor de Ropa,,,,"CALLE DE ALFONSO XII, 60",,,,,,,,,,,Retiro,,,40.40878406,-3.68882036,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,170
+Contenedor de Ropa,,,,"CALLE DE ANDRES TORREJON, 17",,,,,,,,,,,Retiro,,,40.40792519,-3.68233419,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,171
+Contenedor de ropa,,,,"CALLE DE PIO BAROJA, 8",,"Centro de Mayores ""Pio Baroja""",,,,,,,,,Retiro,,,40.41327605,-3.67463988,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,172
+Contenedor de ropa,,,,"CALLE DE ANTONIO DIAZ-CAÑABATE, 32",,,,,,,,,,,Retiro,,,40.40744538,-3.67360501,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,173
+Contenedor de ropa,,,,"AVENIDA DEL MEDITERRANEO, 15",,,,,,,,,,,Retiro,,,40.40745662,-3.67575512,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,174
+Contenedor de ropa,,,,"AVENIDA DEL MEDITERRANEO, 3",esquina Avenida del Mediterraneo,,,,,,,,,,Retiro,,,40.40764994,-3.67742209,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,175
+Contenedor de ropa,,,,"CALLE DEL CONDE DE CARTAGENA, 7",,,,,,,,,,,Retiro,,,40.40896257,-3.6764343,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,176
+Contenedor de ropa,,,,"AVENIDA DE MENENDEZ PELAYO, 91",,,,,,,,,,,Retiro,,,40.4079122,-3.67829472,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,177
+Contenedor de Ropa,,,,"CALLE DE LA ANUNCIACION, 1",,,,,,,,,,,Retiro,,,40.41189218,-3.675801,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,178
+Contenedor de Ropa,,,,"AVENIDA DE MENENDEZ PELAYO, 67",,,,,,,,,,,Retiro,,,40.41234376,-3.67652125,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,179
+Contenedor de ropa,,,,"CALLE DE SALUSTIANO OLOZAGA, 8",,,,,,,,,,,Salamanca,,,40.42071757,-3.69104448,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,180
+Contenedor de ropa,,,,"CALLE DE AYALA, 23",,,,,,,,,,,Salamanca,,,40.42793584,-3.68537621,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,181
+Contenedor de ropa,,,,"CALLE DE GOYA, 24",,,,,,,,,,,Salamanca,,,40.4248704,-3.68289948,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,182
+Contenedor de ropa,,,,"CALLE DE AYALA, 29",,,,,,,,,,,Salamanca,,,40.42778354,-3.68421867,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,183
+Contenedor de ropa,,,,"CALLE DE LAGASCA, 7",frente,,,,,,,,,,Salamanca,,,40.42155299,-3.68589917,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,184
+Contenedor de ropa,,,,"PASEO DE LA CASTELLANA, 4",,,,,,,,,,,Vicálvaro,,,40.42701079,-3.68975448,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,185
+Contenedor de Ropa,,,,"CALLE DE GOYA, 19",,,,,,,,,,,Salamanca,,,40.42541032,-3.68671996,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,186
+Contenedor de Ropa,,,,"CALLE DE GOYA, 36",,,,,,,,,,,Salamanca,,,40.4249607,-3.68096748,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,187
+Contenedor de Ropa,,,,"CALLE DE ALCALA, 64",,,,,,,,,,,Salamanca,,,40.42202875,-3.68148977,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,188
+Contenedor de ropa,,,,"AVENIDA DE MENENDEZ PELAYO, 1",,,,,,,,,,,Salamanca,,,40.42256775,-3.68009258,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,189
+Contenedor de ropa,,,,"CALLE DEL DUQUE DE SESTO, 43",,,,,,,,,,,Salamanca,,,40.42236968,-3.67298846,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,190
+Contenedor de ropa,,,,"AVENIDA DE FELIPE II, 2",,Iglesia,,,,,,,,,Salamanca,,,40.4239557,-3.67729577,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,191
+Contenedor de ropa,,,,"CALLE DE JORGE JUAN, 82",frente,,,,,,,,,,Salamanca,,,40.42316089,-3.6752988,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,192
+Contenedor de ropa,,,,"CALLE DEL GENERAL DIAZ PORLIER, 9",,,,,,,,,,,Salamanca,,,40.42524462,-3.6772384,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,193
+Contenedor de ropa,,,,"CALLE DEL GENERAL PARDIÑAS, 18",,,,,,,,,,,Salamanca,,,40.42519012,-3.67867694,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,194
+Contenedor de ropa,,,,"CALLE DE GOYA, 52",,,,,,,,,,,Salamanca,,,40.42476006,-3.67828994,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,195
+Contenedor de ropa,,,,"CALLE DEL GENERAL PARDIÑAS, 1",,,,,,,,,,,Salamanca,,,40.42368016,-3.67881455,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,196
+Contenedor de ropa,,,,"CALLE DEL CONDE DE PEÑALVER, 10",,,,,,,,,,,Salamanca,,,40.42593029,-3.67561897,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,197
+Contenedor de ropa,,,,"CALLE DEL PRINCIPE DE VERGARA, 30",,,,,,,,,,,Salamanca,,,40.42612056,-3.67999951,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,198
+Contenedor de ropa,,,,"CALLE DE MONTESA, 10",,,,,,,,,,,Salamanca,,,40.42737149,-3.67236208,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,199
+Contenedor de ropa,,,,"CALLE DE LAS MARTIRES CONCEPCIONISTAS, 3",esquina calle Alcalá,,,,,,,,,,Salamanca,,,40.4274148,-3.6706844,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,200
+Contenedor de ropa,,,,"CALLE DE GOYA, 106",,,,,,,,,,,Salamanca,,,40.42437057,-3.67033883,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,201
+Contenedor de Ropa,,,,"CALLE DE GOYA, 109",,,,,,,,,,,Salamanca,,,40.4247264,-3.67276987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,202
+Contenedor de Ropa,,,,"CALLE DE JORGE JUAN, 131",,,,,,,,,,,Salamanca,,,40.42312874,-3.66946215,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,203
+Contenedor de ropa,,,,"CALLE DE JORGE JUAN, 110",,,,,,,,,,,Salamanca,,,40.42282042,-3.66724912,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,204
+Contenedor de ropa,,,,"CALLE DE ANTONIO TOLEDANO, 32",,,,,,,,,,,Salamanca,,,40.42401026,-3.66691245,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,205
+Contenedor de ropa,,,,"PASEO DEL MARQUES DE ZAFRA, 37",,,,,,,,,,,Salamanca,,,40.42577031,-3.66385983,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,206
+Contenedor de ropa,,,,"PASEO DEL MARQUES DE ZAFRA, 17",,,,,,,,,,,Salamanca,,,40.42645332,-3.66651691,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,207
+Contenedor de ropa,,,,"CALLE DEL MARQUES DE ZAFRA, 2",,,,,,,,,,,Salamanca,,,40.42499016,-3.66265964,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,208
+Contenedor de ropa,,,,"CALLE DE ALEJANDRO GONZALEZ, 4",,,,,,,,,,,Salamanca,,,40.42995984,-3.66388016,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,209
+Contenedor de ropa,,,,"PLAZA DE AMERICA ESPAÑOLA, 5",,,,,,,,,,,Salamanca,,,40.42925228,-3.66210026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,210
+Contenedor de ropa,,,,"CALLE DE SANCHO DAVILA, 12",,,,,,,,,,,Salamanca,,,40.42789037,-3.66219969,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,211
+Contenedor de ropa,,,,"CALLE DEL ALCALDE SAINZ DE BARANDA, 94",,Centro Deportivo,,,,,,,,,Salamanca,,,40.42136161,-3.6603418,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,212
+Contenedor de ropa,,,,"PASEO DEL MARQUES DE ZAFRA, 2",,,,,,,,,,,Salamanca,,,40.42680876,-3.66815998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,213
+Contenedor de Ropa,,,,"CALLE DE JORGE JUAN, 169",,,,,,,,,,,Salamanca,,,40.42269786,-3.66390601,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,214
+Contenedor de Ropa,,,,"CALLE DE ALMERIA, 2",,,,,,,,,,,Salamanca,,,40.43055281,-3.66310215,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,215
+Contenedor de ropa,,,,"CALLE DEL DOCTOR GOMEZ ULLA, 2",,,,,,,,,,,Salamanca,,,40.42884073,-3.6680887,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,216
+Contenedor de ropa,,,,"CALLE DE JULIO CAMBA, 15",esquina calle Francisco Navacerrada,,,,,,,,,,Salamanca,,,40.43237994,-3.66444404,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,217
+Contenedor de ropa,,,,"CALLE DEL CARDENAL BELLUGA, 3",,,,,,,,,,,Salamanca,,,40.43020006,-3.66518948,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,218
+Contenedor de ropa,,,,"AVENIDA DE LOS TOREROS, 45",,,,,,,,,,,Salamanca,,,40.43245016,-3.66665943,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,219
+Contenedor de ropa,,,,"AVENIDA DE LOS TOREROS, 4",,,,,,,,,,,Salamanca,,,40.43174008,-3.67093935,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,220
+Contenedor de ropa,,,,"CALLE DE ARDEMANS, 30",,,,,,,,,,,Salamanca,,,40.43422077,-3.67197855,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,221
+Contenedor de ropa,,,,"CALLE DE FERRER DEL RIO, 30",,,,,,,,,,,Salamanca,,,40.43544042,-3.67075919,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,222
+Contenedor de ropa,,,,"AVENIDA DE CAMILO JOSE CELA, 45",,Colegio,,,,,,,,,Salamanca,,,40.44102976,-3.66644987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,223
+Contenedor de ropa,,,,"CALLE DE OLTRA, 10",esquina calle Luis Calvo,,,,,,,,,,Salamanca,,,40.43811812,-3.66563904,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,224
+Contenedor de ropa,,,,"CALLE DE BRESCIA, 15",,,,,,,,,,,Salamanca,,,40.43749007,-3.66203589,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,225
+Contenedor de ropa,,,,"AVENIDA DE BRUSELAS, 48",,,,,,,,,,,Salamanca,,,40.43808061,-3.66330966,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,226
+Contenedor de ropa,,,,"AVENIDA DE BRUSELAS, 63",,,,,,,,,,,Salamanca,,,40.44042115,-3.66329493,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,227
+Contenedor de ropa,,,,"CALLE DE BERLIN, 6",,,,,,,,,,,Salamanca,,,40.44197598,-3.66200039,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,228
+Contenedor de ropa,,,,"CALLE DE CARTAGENA, 78",,,,,,,,,,,Salamanca,,,40.43795012,-3.67195943,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,229
+Contenedor de ropa,,,,"CALLE DE COSLADA, 19",,,,,,,,,,,Salamanca,,,40.43832009,-3.67341962,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,230
+Contenedor de ropa,,,,"CALLE DE BEJAR, 1",,Carrefour Express,,,,,,,,,Salamanca,,,40.43519011,-3.67458922,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,231
+Contenedor de ropa,,,,"CALLE DE MARTINEZ IZQUIERDO, 60",,,,,,,,,,,Salamanca,,,40.4351489,-3.66539087,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,232
+Contenedor de Ropa,,,,"CALLE DE FRANCISCO REMIRO, 10",,,,,,,,,,,Salamanca,,,40.43803508,-3.6684777,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,233
+Contenedor de Ropa,,,,"AVENIDA DE BRASILIA, 33",,,,,,,,,,,Salamanca,,,40.44133912,-3.66113191,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,234
+Contenedor de Ropa,,,,"CALLE DE FRANCISCO SILVELA, 52",,,,,,,,,,,Salamanca,,,40.43467455,-3.6739655,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,235
+Contenedor de Ropa,,,,"CALLE DE JULIO CAMBA, 7",,,,,,,,,,,Salamanca,,,40.43149204,-3.66433623,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,236
+Contenedor de ropa,,,,"CALLE DE JUAN BRAVO, 48",esquina calle General Diaz Porlier,,,,,,,,,,Salamanca,,,40.43231395,-3.67690568,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,237
+Contenedor de ropa,,,,"CALLE DE MALDONADO, 71",esquina calle Conde de Peñalver,,,,,,,,,,Salamanca,,,40.43356099,-3.67453014,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,238
+Contenedor de ropa,,,,"CALLE DE JUAN BRAVO, 68",,,,,,,,,,,Salamanca,,,40.43216078,-3.67295885,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,239
+Contenedor de ropa,,,,"CALLE DEL GENERAL DIAZ PORLIER, 97",,,,,,,,,,,Salamanca,,,40.43426805,-3.676332,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,240
+Contenedor de ropa,,,,"CALLE DEL GENERAL PARDIÑAS, 79",,,,,,,,,,,Salamanca,,,40.43487861,-3.67786326,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,241
+Contenedor de ropa,,,,"CALLE DE JUAN BRAVO, 68",,,,,,,,,,,Salamanca,,,40.43216042,-3.67295909,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,242
+Contenedor de ropa,,,,"CALLE DEL GENERAL DIAZ PORLIER, 54",,,,,,,,,,,Salamanca,,,40.42965392,-3.67678082,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,243
+Contenedor de ropa,,,,"CALLE DE PADILLA, 82",,,,,,,,,,,Salamanca,,,40.43064192,-3.67268447,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,244
+Contenedor de ropa,,,,"CALLE DE JUAN BRAVO, 40",,,,,,,,,,,Salamanca,,,40.43234495,-3.67798333,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,245
+Contenedor de Ropa,,,,"PLAZA DEL MARQUES DE SALAMANCA, 9",,,,,,,,,,,Salamanca,,,40.42994791,-3.67919453,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,246
+Contenedor de Ropa,,,,"CALLE DE JOSE ORTEGA Y GASSET, 66",,,,,,,,,,,Salamanca,,,40.4298089,-3.67481586,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,247
+Contenedor de Ropa,,,,"CALLE DE MALDONADO, 66",,,,,,,,,,,Salamanca,,,40.43337238,-3.67369,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,248
+Contenedor de ropa,,,,"CALLE DE CASTELLO, 104",,,,,,,,,,,Salamanca,,,40.43517004,-3.68061097,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,249
+Contenedor de ropa,,,,"CALLE DE NUÑEZ DE BALBOA, 109",,,,,,,,,,,Salamanca,,,40.43625502,-3.68184599,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,250
+Contenedor de ropa,,,,"CALLE DE JUAN BRAVO, 24",esquina calle Nuñez de Balboa,IPTEM,,,,,,,,,Salamanca,,,40.43259583,-3.6820055,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,251
+Contenedor de ropa,,,,"CALLE DE CASTELLO, 67",,,,,,,,,,,Salamanca,,,40.42935284,-3.68141895,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,252
+Contenedor de ropa,,,,"CALLE DE JOSE ORTEGA Y GASSET, 8",,,,,,,,,,,Salamanca,,,40.43031728,-3.68612084,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,253
+Contenedor de ropa,,,,"CALLE DE JOSE ORTEGA Y GASSET, 28",,,,,,,,,,,Salamanca,,,40.43007101,-3.68204973,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,254
+Contenedor de ropa,,,,"CALLE DE JOSE ORTEGA Y GASSET, 8",,,,,,,,,,,Salamanca,,,40.43031728,-3.68612084,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,255
+Contenedor de Ropa,,,,"CALLE DE LOPEZ DE HOYOS, 6",,,,,,,,,,,Salamanca,,,40.43665013,-3.68817277,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,256
+Contenedor de Ropa,,,,"PASEO DE LA CASTELLANA, 36",,,,,,,,,,,Salamanca,,,40.43257774,-3.68807626,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,257
+Contenedor de Ropa,,,,"CALLE DE CLAUDIO COELLO, 120",,,,,,,,,,,Salamanca,,,40.43660077,-3.68533946,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,258
+Contenedor de ropa,,,,"CALLE DEL PRINCIPE DE VERGARA, 205",frente,,,,,,,,,,Chamartín,,,40.44967077,-3.67804917,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,259
+Contenedor de ropa,,,,"AVENIDA DEL DOCTOR ARCE, 32",,,,,,,,,,,Chamartín,,,40.44834078,-3.67899936,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,260
+Contenedor de ropa,,,,"CALLE DE LOPEZ DE HOYOS, 40",,CEIP Patriarca Obispo Eijo Garay,,,,,,,,,Chamartín,,,40.43958033,-3.68151029,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,261
+Contenedor de ropa,,,,"CALLE DE PABLO ARANDA, 4",,,,,,,,,,,Chamartín,,,40.4419004,-3.68539976,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,262
+Contenedor de ropa,,,,"PASEO DE LA HABANA, 1",,Instituto de Censores Jurados de Cuentas de España,,,,,,,,,Chamartín,,,40.44814069,-3.6901201,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,263
+Contenedor de ropa,,,,"PASEO DE LA HABANA, 54",,,,,,,,,,,Chamartín,,,40.45098075,-3.68647848,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,264
+Contenedor de ropa,,,,"AVENIDA DE CONCHA ESPINA, 8",,ASICS - Madrid Concha Espina,,,,,,,,,Chamartín,,,40.45180066,-3.68809953,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,265
+Contenedor de Ropa,,,,"CALLE DE PEDRO DE VALDIVIA, 4",,,,,,,,,,,Chamartín,,,40.43941462,-3.69009149,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,266
+Contenedor de ropa,,,,"CALLE DEL CORAZON DE MARIA, 72",,,,,,,,,,,Chamartín,,,40.44692082,-3.66607965,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,267
+Contenedor de ropa,,,,"CALLE DE CLARA DEL REY, 71",,,,,,,,,,,Chamartín,,,40.44715092,-3.66819958,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,268
+Contenedor de ropa,,,,"CALLE DE CLARA DEL REY, 10",,,,,,,,,,,Chamartín,,,40.4414698,-3.67151905,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,269
+Contenedor de ropa,,,,"CALLE DE CANILLAS, 102",,,,,,,,,,,Chamartín,,,40.4436409,-3.66832884,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,270
+Contenedor de ropa,,,,"CALLE DE CARTAGENA, 118",,,,,,,,,,,Chamartín,,,40.44063083,-3.67415887,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,271
+Contenedor de ropa,,,,"PLAZA DE GETAFE, 1",,,,,,,,,,,Chamartín,,,40.44424003,-3.67212995,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,272
+Contenedor de ropa,,,,"CALLE DE SANTA HORTENSIA, 1",,Iglesia,,,,,,,,,Chamartín,,,40.44625994,-3.67015886,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,273
+Contenedor de ropa,,,,"CALLE DEL PADRE CLARET, 17",,,,,,,,,,,Chamartín,,,40.44757236,-3.6647151,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,274
+Contenedor de ropa,,,,"CALLE DE PRADILLO, 33",,"Centro Deportivo Municipal ""Pradillo""",,,,,,,,,Chamartín,,,40.44911742,-3.67172232,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,275
+Contenedor de ropa,,,,"CALLE DE LOPEZ DE HOYOS, 157",,,,,,,,,,,Chamartín,,,40.44870014,-3.66753968,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,276
+Contenedor de ropa,,,,"PLAZA DEL SAGRADO CORAZON DE JESUS, 1",esquina calle de López de Hoyos,,,,,,,,,,Chamartín,,,40.44469632,-3.67761075,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,277
+Contenedor de ropa,,,,"CALLE DE VINAROZ, 1",Plaza Prosperidad,,,,,,,,,,Chamartín,,,40.44457474,-3.67469051,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,278
+Contenedor de ropa,,,,"CALLE DE SANCHEZ PACHECO, 35",,,,,,,,,,,Chamartín,,,40.44721064,-3.67463935,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,279
+Contenedor de ropa,,,,"CALLE DEL MARQUES DE SANTILLANA, 1",,Jardines Próspero Sonara,,,,,,,,,Chamartín,,,40.4490154,-3.67599762,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,280
+Contenedor de ropa,,,,"AVENIDA DE RAMON Y CAJAL, 58",,Iglesia La Asunción de Nuestra Señora,,,,,,,,,Chamartín,,,40.45227107,-3.66846941,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,281
+Contenedor de ropa,,,,"AVENIDA DE ALFONSO XIII, 130",,Punto Limpio Fijo,,,,,,,,,Chamartín,,,40.45869635,-3.66749138,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,282
+Contenedor de ropa,,,,"CALLE DE PUERTO RICO, 1",,Parroquia Nuestra Señora de Guadalupe,,,,,,,,,Chamartín,,,40.45216001,-3.67506953,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,283
+Contenedor de ropa,,,,"PLAZA DE LOS SAGRADOS CORAZONES, 3",,Parroquia los Sagrados Corazones,,,,,,,,,Chamartín,,,40.45262043,-3.68584902,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,284
+Contenedor de ropa,,,,"CALLE DEL PADRE DAMIAN, 24",,,,,,,,,,,Chamartín,,,40.45638046,-3.68641998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,285
+Contenedor de ropa,,,,"CALLE DEL DOCTOR FLEMING, 11",,,,,,,,,,,Chamartín,,,40.45633001,-3.68853977,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,286
+Contenedor de ropa,,,,"CALLE DE BOLIVIA, 16",,,,,,,,,,,Chamartín,,,40.45674053,-3.6778886,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,287
+Contenedor de ropa,,,,"CALLE DE SERRANO, 224",frente,,,,,,,,,,Chamartín,,,40.45295074,-3.68013947,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,288
+Contenedor de ropa,,,,"CALLE DE CHILE, 19",,,,,,,,,,,Chamartín,,,40.45818773,-3.67570565,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,289
+Contenedor de ropa,,,,"CALLE DE URUGUAY, 35",,,,,,,,,,,Chamartín,,,40.45520089,-3.67184018,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,290
+Contenedor de ropa,,,,"AVENIDA DE ALFONSO XIII, 93",,,,,,,,,,,Chamartín,,,40.45649041,-3.6673198,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,291
+Contenedor de ropa,,,,"CALLE DE PUERTO RICO, 54",,"Instalación Deportiva Municipal Básica ""Puerto Rico""",,,,,,,,,Chamartín,,,40.45913885,-3.67412369,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,292
+Contenedor de ropa,,,,"CALLE DEL DOCTOR FLEMING, 33",,,,,,,,,,,Chamartín,,,40.4614897,-3.68802996,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,293
+Contenedor de ropa,,,,"CALLE DEL DOCTOR FLEMING, 46",,,,,,,,,,,Chamartín,,,40.46142778,-3.68774731,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,294
+Contenedor de ropa,,,,"CALLE DEL PADRE DAMIAN, 44",,,,,,,,,,,Chamartín,,,40.45952054,-3.68515998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,295
+Contenedor de ropa,,,,"CALLE DE APOLONIO MORALES, 3",,,,,,,,,,,Chamartín,,,40.46350041,-3.68412966,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,296
+Contenedor de ropa,,,,"PASEO DE LA HABANA, 143",,Centro Geriátrico,,,,,,,,,Chamartín,,,40.46173081,-3.68059873,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,297
+Contenedor de ropa,,,,"CALLE DE FELIX BOIX, 13",,Parroquia Santísimo Redentor,,,,,,,,,Chamartín,,,40.46336046,-3.6859001,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,298
+Contenedor de ropa,,,,"AVENIDA DE PIO XII, 43",,,,,,,,,,,Chamartín,,,40.46470041,-3.67585938,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,299
+Contenedor de ropa,,,,"CALLE DE LA MADRE DE DIOS, 5",,,,,,,,,,,Chamartín,,,40.46308181,-3.67471059,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,300
+Contenedor de ropa,,,,"AVENIDA DE ALFONSO XIII, 182",,,,,,,,,,,Chamartín,,,40.46056022,-3.67724928,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,301
+Contenedor de ropa,,,,"CALLE DE SANTA MARIA MAGDALENA, 19",esquina calle Drácena,,,,,,,,,,Chamartín,,,40.46359288,-3.67095246,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,302
+Contenedor de Ropa,,,,"CALLE DE LA MADRE DE DIOS, 41",,,,,,,,,,,Chamartín,,,40.46527237,-3.67247547,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,303
+Contenedor de Ropa,,,,"CALLE DE ENRIQUE JARDIEL PONCELA, 6",,,,,,,,,,,Chamartín,,,40.46060915,-3.66959331,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,304
+Contenedor de ropa,,,,"CALLE DEL CONDE DE TORRALBA, 17",,,,,,,,,,,Chamartín,,,40.47941326,-3.68477618,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,305
+Contenedor de ropa,,,,"CALLE DE MAURICIO LEGENDRE, 23",,,,,,,,,,,Chamartín,,,40.47156809,-3.68652129,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,306
+Contenedor de ropa,,,,"CALLE DE MATEO INURRIA, 31",,,,,,,,,,,Chamartín,,,40.46759072,-3.68158952,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,307
+Contenedor de ropa,,,,"AVENIDA DE BURGOS, 19",,,,,,,,,,,Chamartín,,,40.4740501,-3.67613668,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,308
+Contenedor de ropa,,,,"CALLE DE PASTORA IMPERIO, 1",,,,,,,,,,,Chamartín,,,40.48098049,-3.67465946,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,309
+Contenedor de ropa,,,,"AVENIDA DE BURGOS, 9",esquina Avenida Burgos,,,,,,,,,,Chamartín,,,40.47221305,-3.67645068,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,310
+Contenedor de ropa,,,,"CALLE DE LAS PLATERIAS, 1",,,,,,,,,,,Chamartín,,,40.46789991,-3.67868,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,311
+Contenedor de ropa,,,,"CALLE DE FRANCOS RODRIGUEZ, 67",frente,"Biblioteca Municipal ""Manuel Vázquez Montalbán""",,,,,,,,,Tetuán,,,40.45743984,-3.71039537,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,312
+Contenedor de Ropa,,,,"CALLE DE LERIDA, 60",,Mercado Municipal de San Enrique,,,,,,,,,Tetuán,,,40.45597279,-3.70017501,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,313
+Contenedor de Ropa,,,,"CALLE DE SAN GERMAN, 5",,,,,,,,,,,Tetuán,,,40.45619794,-3.6929639,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,314
+Contenedor de Ropa,,,,"CALLE DE LA INFANTA MERCEDES, 12",,,,,,,,,,,Tetuán,,,40.45433645,-3.69892609,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,315
+Contenedor de Ropa,,,,"PLAZA DE SAN AMARO, 9",,,,,,,,,,,Tetuán,,,40.45504507,-3.69691928,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,316
+Contenedor de Ropa,,,,"AVENIDA DE BRASIL, 8",,,,,,,,,,,Tetuán,,,40.45461265,-3.69359421,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,317
+Contenedor de Ropa,,,,"AVENIDA DEL GENERAL PERON, 21",,,,,,,,,,,Tetuán,,,40.45249787,-3.69604725,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,318
+Contenedor de Ropa,,,,"CALLE DE LA REINA MERCEDES, 7",,,,,,,,,,,Tetuán,,,40.45104133,-3.69862974,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,319
+Contenedor de Ropa,,,,"CALLE DE JAEN, 8",,,,,,,,,,,Tetuán,,,40.45046853,-3.7025441,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,320
+Contenedor de ropa,,,,"CALLE DEL POETA JOAN MARAGALL, 35",,,,,,,,,,,Tetuán,,,40.45881863,-3.69213548,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,321
+Contenedor de ropa,,,,"CALLE DE SAN GERMAN, 20",,Zona Verde,,,,,,,,,Tetuán,,,40.45652976,-3.6942282,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,322
+Contenedor de Ropa,,,,"CALLE DE LA INFANTA MERCEDES, 88",,,,,,,,,,,Tetuán,,,40.46273006,-3.69421558,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,323
+Contenedor de Ropa,,,,"CALLE DEL POETA JOAN MARAGALL, 46",,,,,,,,,,,Tetuán,,,40.4610675,-3.69171207,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,324
+Contenedor de Ropa,,,,"CALLE DE SOR ANGELA DE LA CRUZ, 14",,,,,,,,,,,Tetuán,,,40.45938548,-3.69387032,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,325
+Contenedor de Ropa,,,,"CALLE DEL PENSAMIENTO, 1",,,,,,,,,,,Tetuán,,,40.45973772,-3.69895352,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,326
+Contenedor de Ropa,,,,"CALLE DE SAN GERMAN, 74",,,,,,,,,,,Tetuán,,,40.45744372,-3.70103852,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,327
+Contenedor de Ropa,,,,"CALLE DE LA INFANTA MERCEDES, 47",,,,,,,,,,,Tetuán,,,40.45753711,-3.69775976,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,328
+Contenedor de Ropa,,,,"CALLE DE SAN GERMAN, 30",,,,,,,,,,,Tetuán,,,40.45647793,-3.6956651,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,329
+Contenedor de ropa,,,,"CALLE DE MATILDE LANDA, 30",,"Centro Social Comunitario ""Josefa Amar""",,,,,,,,,Tetuán,,,40.47317186,-3.69400983,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,330
+Contenedor de ropa,,,,"CALLE DE SAN AQUILINO, 1",,Mercadillo en la vía pública de avenida de Asturias (mercadillo),,,,,,,,,Tetuán,,,40.46728659,-3.69141319,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,331
+Contenedor de ropa,,,,"CALLE DE MONTOYA, 12",,"Biblioteca Pública Municipal ""María Zambrano""",,,,,,,,,Tetuán,,,40.46932097,-3.69728398,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,332
+Contenedor de Ropa,,,,"CALLE DE LOS MARTIRES DE LA VENTILLA, 31",,,,,,,,,,,Tetuán,,,40.47068409,-3.69105216,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,333
+Contenedor de Ropa,,,,"AVENIDA DE ASTURIAS, 28",,,,,,,,,,,Tetuán,,,40.46928791,-3.69495474,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,334
+Contenedor de Ropa,,,,"AVENIDA DE ASTURIAS, 55",,,,,,,,,,,Tetuán,,,40.47103285,-3.69820142,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,335
+Contenedor de Ropa,,,,"PASEO DE LA DIRECCION, 368",,,,,,,,,,,Tetuán,,,40.47166464,-3.70155924,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,336
+Contenedor de Ropa,,,,"CALLE DE SAN AQUILINO, 4",,,,,,,,,,,Tetuán,,,40.46785055,-3.69021547,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,337
+Contenedor de Ropa,,,,"CALLE DEL CONDE DE SERRALLO, 4",,,,,,,,,,,Tetuán,,,40.46651527,-3.69170745,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,338
+Contenedor de Ropa,,,,"CALLE DE JOAQUIN DICENTA, 20",,,,,,,,,,,Tetuán,,,40.47230162,-3.69406968,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,339
+Contenedor de Ropa,,,,"CALLE DE SINESIO DELGADO, 3",,,,,,,,,,,Tetuán,,,40.47423748,-3.68818308,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,340
+Contenedor de Ropa,,,,"CALLE DE LAS MAGNOLIAS, 114",,,,,,,,,,,Tetuán,,,40.47333157,-3.68949246,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,341
+Contenedor de Ropa,,,,"CALLE DE LA VIA LIMITE, 25",,,,,,,,,,,Tetuán,,,40.47342052,-3.69187541,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,342
+Contenedor de Ropa,,,,"CALLE DE LOS CEDROS, 65",,,,,,,,,,,Tetuán,,,40.47067303,-3.69051804,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,343
+Contenedor de Ropa,,,,"CALLE DE LOS MARTIRES DE LA VENTILLA, 71",,,,,,,,,,,Tetuán,,,40.47111031,-3.69246748,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,344
+Contenedor de Ropa,,,,"PASEO DE LA CASTELLANA, 227",,,,,,,,,,,Tetuán,,,40.47201658,-3.68816472,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,345
+Contenedor de Ropa,,,,"CALLE DE LAS AGUILEÑAS, 15",,,,,,,,,,,Tetuán,,,40.46681373,-3.69428042,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,346
+Contenedor de Ropa,,,,"CALLE DE PINOS ALTA, 72",,,,,,,,,,,Tetuán,,,40.46895663,-3.69895644,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,347
+Contenedor de Ropa,,,,"CALLE DE PINOS ALTA, 7",,,,,,,,,,,Tetuán,,,40.46547657,-3.69552777,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,348
+Contenedor de Ropa,,,,"CALLE DEL MARQUES DE VIANA, 4",,Mercado de Tetuán,,,,,,,,,Tetuán,,,40.46098106,-3.69895942,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,349
+Contenedor de Ropa,,,,"CALLE DE REYES AIZQUIBEL, 22",,,,,,,,,,,Tetuán,,,40.46869171,-3.7076948,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,350
+Contenedor de Ropa,,,,"CALLE DEL CANTUESO, 50",,,,,,,,,,,Tetuán,,,40.46760216,-3.70497028,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,351
+Contenedor de Ropa,,,,"PLAZA DE GUILHOU, 5",,,,,,,,,,,Tetuán,,,40.46570095,-3.70481431,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,352
+Contenedor de Ropa,,,,"CALLE DE LA MIOSOTIS, 54",,,,,,,,,,,Tetuán,,,40.46513544,-3.70240667,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,353
+Contenedor de ropa,,,,"CALLE DE LA HIERBABUENA, 2",,"Centro Deportivo Municipal ""Playa Victoria""",,,,,,,,,Tetuán,,,40.45908359,-3.70188423,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,354
+Contenedor de ropa,,,,"PASEO DE LA DIRECCION, 125",,"Centro Deportivo Municipal ""Playa Victoria""",,,,,,,,,Tetuán,,,40.46247791,-3.70692807,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,355
+Contenedor de Ropa,,,,"CALLE DE ANDRES MELLADO, 66",,Mercado de Guzmán el Bueno,,,,,,,,,Chamberí,,,40.43495538,-3.71441153,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,356
+Contenedor de Ropa,,,,"CALLE DE JOAQUIN MARIA LOPEZ, 61",,,,,,,,,,,Chamberí,,,40.43781285,-3.71712234,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,357
+Contenedor de Ropa,,,,"CALLE DEL ARCIPRESTE DE HITA, 14",,,,,,,,,,,Chamberí,,,40.43461597,-3.71822394,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,358
+Contenedor de Ropa,,,,"CALLE DE MELENDEZ VALDES, 61",,,,,,,,,,,Chamberí,,,40.43307089,-3.71625507,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,359
+Contenedor de Ropa,,,,"CALLE DE DONOSO CORTES, 76",,,,,,,,,,,Chamberí,,,40.43644437,-3.71360299,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,360
+Contenedor de Ropa,,,,"CALLE DE ANDRES MELLADO, 2",,,,,,,,,,,Chamberí,,,40.43075824,-3.71454066,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,361
+Contenedor de Ropa,,,,"CALLE DE JOAQUIN MARIA LOPEZ, 50",FTE. NUMERO 50,,,,,,,,,,Chamberí,,,40.43772262,-3.71512962,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,362
+Contenedor de Ropa,,,,"CALLE DE BRAVO MURILLO, 41",,,,,,,,,,,Chamberí,,,40.43742346,-3.70437914,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,363
+Contenedor de Ropa,,,,"CALLE DE VALLEHERMOSO, 14",,,,,,,,,,,Chamberí,,,40.43121505,-3.70887508,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,364
+Contenedor de Ropa,,,,"CALLE DE MAGALLANES, 28",,Mercadona,,,,,,,,,Chamberí,,,40.43453701,-3.70560845,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,365
+Contenedor de Ropa,,,,"CALLE DE VALLEHERMOSO, 38",,Mercado de Vallehermoso,,,,,,,,,Chamberí,,,40.43432452,-3.70861043,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,366
+Contenedor de Ropa,,,,"CALLE DE CEA BERMUDEZ, 3",,,,,,,,,,,Chamberí,,,40.43866146,-3.70616119,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,367
+Contenedor de Ropa,,,,"CALLE DE CEA BERMUDEZ, 23",,,,,,,,,,,Chamberí,,,40.43877977,-3.70978767,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,368
+Contenedor de Ropa,,,,"CALLE DE SAN BERNARDO, 113",,,,,,,,,,,Chamberí,,,40.43247707,-3.70487232,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,369
+Contenedor de Ropa,,,,"PLAZA DEL CONDE DEL VALLE DE SUCHIL, 17",,,,,,,,,,,Chamberí,,,40.43204355,-3.70731938,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,370
+Contenedor de Ropa,,,,"CALLE DE MELENDEZ VALDES, 21",,,,,,,,,,,Chamberí,,,40.43291694,-3.71144118,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,371
+Contenedor de Ropa,,,,"CALLE DE JOAQUIN MARIA LOPEZ, 38",,,,,,,,,,,Chamberí,,,40.43741601,-3.7086021,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,372
+Contenedor de Ropa,,,,"CALLE DE ARAPILES, 4",,,,,,,,,,,Chamberí,,,40.4334056,-3.70513005,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,373
+Contenedor de Ropa,,,,"CALLE DE JUAN DE AUSTRIA, 22",,,,,,,,,,,Chamberí,,,40.43347026,-3.69958981,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,374
+Contenedor de Ropa,,,,"CALLE DE TRAFALGAR, 6",,,,,,,,,,,Chamberí,,,40.43094176,-3.70009871,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,375
+Contenedor de Ropa,,,,"CALLE DE COVARRUBIAS, 4",,,,,,,,,,,Chamberí,,,40.42839257,-3.69707023,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,376
+Contenedor de Ropa,,,,"CALLE DE FRANCISCO DE ROJAS, 10",,,,,,,,,,,Chamberí,,,40.42974086,-3.69967082,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,377
+Contenedor de Ropa,,,,"CALLE DE COVARRUBIAS, 29",,,,,,,,,,,Chamberí,,,40.43112285,-3.69816424,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,378
+Contenedor de Ropa,,,,"CALLE DEL GENERAL ALVAREZ DE CASTRO, 27",,,,,,,,,,,Chamberí,,,40.43647049,-3.70252645,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,379
+Contenedor de Ropa,,,,CALLE DE FUENCARRAL 125,,,,,,,,,,,Chamberí,,,40.43103976,-3.70323853,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,380
+Contenedor de Ropa,,,,"CALLE DE SAN BERNARDO, 98",,,,,,,,,,,Chamberí,,,40.43030666,-3.70538565,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,381
+Contenedor de Ropa,,,,"CALLE DEL GENERAL ALVAREZ DE CASTRO, 4",,,,,,,,,,,Chamberí,,,40.43465625,-3.70157218,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,382
+Contenedor de Ropa,,,,"CALLE DEL CARDENAL CISNEROS, 53",,,,,,,,,,,Chamberí,,,40.4331523,-3.7023411,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,383
+Contenedor de Ropa,,,,"CALLE DEL CARDENAL CISNEROS, 9",NUMERO 9 FTE NUMERO 38,,,,,,,,,,Chamberí,,,40.43022969,-3.70156836,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,384
+Contenedor de Ropa,,,,"CALLE DE MIGUEL ANGEL, 12",,,,,,,,,,,Chamberí,,,40.43457472,-3.69119962,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,385
+Contenedor de Ropa,,,,"CALLE DEL MONTE ESQUINZA, 6",,,,,,,,,,,Chamberí,,,40.42662796,-3.69226283,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,386
+Contenedor de Ropa,,,,"CALLE DE ZURBANO, 19",,,,,,,,,,,Chamberí,,,40.42913869,-3.69367995,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,387
+Contenedor de Ropa,,,,"CALLE DE SANTA ENGRACIA, 6",,,,,,,,,,,Chamberí,,,40.42875171,-3.69592834,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,388
+Contenedor de Ropa,,,,"CALLE DE ZURBARAN, 32",,,,,,,,,,,Chamberí,,,40.42938138,-3.68995963,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,389
+Contenedor de Ropa,,,,"CALLE DE CARACAS, 27",,,,,,,,,,,Chamberí,,,40.43062806,-3.69316932,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,390
+Contenedor de Ropa,,,,"CALLE DEL MARQUES DEL RISCAL, 13",,,,,,,,,,,Chamberí,,,40.43064998,-3.68968037,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,391
+Contenedor de Ropa,,,,"CALLE DE FERNANDEZ DE LA HOZ, 11",,,,,,,,,,,Chamberí,,,40.43188615,-3.69505021,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,392
+Contenedor de Ropa,,,,"CALLE DE SANTA ENGRACIA, 48",,,,,,,,,,,Chamberí,,,40.43363247,-3.69808572,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,393
+Contenedor de Ropa,,,,"CALLE DE ALONSO CANO, 2",,,,,,,,,,,Chamberí,,,40.43512949,-3.69802882,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,394
+Contenedor de Ropa,,,,"CALLE DE FERNANDEZ DE LA HOZ, 46",,,,,,,,,,,Chamberí,,,40.43580143,-3.69471382,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,395
+Contenedor de Ropa,,,,"CALLE DE ALONSO CANO, 29",FRENTE NUMERO 29,,,,,,,,,,Chamberí,,,40.43788352,-3.69779555,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,396
+Contenedor de Ropa,,,,"CALLE DE GARCIA DE PAREDES, 92",,,,,,,,,,,Chamberí,,,40.43648575,-3.69099457,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,397
+Contenedor de Ropa,,,,"CALLE DE ZURBANO, 37",,,,,,,,,,,Chamberí,,,40.43305089,-3.69336862,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,398
+Contenedor de Ropa,,,,"CALLE DE PONZANO, 20",,,,,,,,,,,Chamberí,,,40.43823202,-3.6993165,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,399
+Contenedor de Ropa,,,,"CALLE DE RAFAEL CALVO, 11",,,,,,,,,,,Chamberí,,,40.43379498,-3.69550109,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,400
+Contenedor de Ropa,,,,"CALLE DE PONZANO, 6",,,,,,,,,,,Chamberí,,,40.4371879,-3.69939817,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,401
+Contenedor de Ropa,,,,"CALLE DE MODESTO LAFUENTE, 13",,,,,,,,,,,Chamberí,,,40.43875766,-3.69629197,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,402
+Contenedor de Ropa,,,,"CALLE DE ZURBANO, 77",,,,,,,,,,,Chamberí,,,40.43827979,-3.69292969,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,403
+Contenedor de Ropa,,,,"CALLE DE BRETON DE LOS HERREROS, 33",,,,,,,,,,,Chamberí,,,40.43956893,-3.69785505,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,404
+Contenedor de Ropa,,,,"PLAZA DEL DESCUBRIDOR DIEGO DE ORDAS, 7",,,,,,,,,,,Chamberí,,,40.44062637,-3.70111178,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,405
+Contenedor de Ropa,,,,"CALLE DE PONZANO, 54",,,,,,,,,,,Chamberí,,,40.44144987,-3.69913884,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,406
+Contenedor de Ropa,,,,"PLAZA DE SAN JUAN DE LA CRUZ, 10",,,,,,,,,,,Chamberí,,,40.44124525,-3.69406831,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,407
+Contenedor de Ropa,,,,"CALLE DE BRETON DE LOS HERREROS, 51",,,,,,,,,,,Chamberí,,,40.43938729,-3.69470331,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,408
+Contenedor de Ropa,,,,"CALLE DE AGUSTIN DE BETANCOURT, 5",,,,,,,,,,,Chamberí,,,40.44290494,-3.6949151,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,409
+Contenedor de Ropa,,,,"CALLE DE ALONSO CANO, 86",,,,,,,,,,,Chamberí,,,40.44519219,-3.69716964,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,410
+Contenedor de Ropa,,,,"CALLE DE MAUDES, 14",,,,,,,,,,,Chamberí,,,40.44530033,-3.70174534,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,411
+Contenedor de Ropa,,,,"CALLE DE MARIA DE GUZMAN, 41",,,,,,,,,,,Chamberí,,,40.4441466,-3.69901923,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,412
+Contenedor de Ropa,,,,"CALLE DE MARIA DE GUZMAN, 3",,,,,,,,,,,Chamberí,,,40.44436867,-3.70340552,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,413
+Contenedor de Ropa,,,,"CALLE DE MODESTO LAFUENTE, 92",,,,,,,,,,,Chamberí,,,40.44621718,-3.69569309,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,414
+Contenedor de Ropa,,,,"CALLE DE MODESTO LAFUENTE, 40",,,,,,,,,,,Chamberí,,,40.44040288,-3.69616122,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,415
+Contenedor de Ropa,,,,"CALLE DE RIOS ROSAS, 11",,,,,,,,,,,Chamberí,,,40.44209983,-3.70222276,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,416
+Contenedor de Ropa,,,,"CALLE DE BRAVO MURILLO, 61",,,,,,,,,,,Chamberí,,,40.44237104,-3.70440866,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,417
+Contenedor de Ropa,,,,"AVENIDA DE PABLO IGLESIAS, 16",,,,,,,,,,,Chamberí,,,40.44521,-3.70662863,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,418
+Contenedor de Ropa,,,,"CALLE DE BRAVO MURILLO, 95",,,,,,,,,,,Chamberí,,,40.44609024,-3.70406096,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,419
+Contenedor de Ropa,,,,"CALLE DEL GENERAL IBAÑEZ DE IBERO, 1",,,,,,,,,,,Chamberí,,,40.44660994,-3.71031934,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,420
+Contenedor de Ropa,,,,"CALLE DEL GENERAL IBAÑEZ DE IBERO, 3",,,,,,,,,,,Chamberí,,,40.44534766,-3.71040552,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,421
+Contenedor de Ropa,,,,"PASEO DE JUAN XXIII, 12",,,,,,,,,,,Chamberí,,,40.44592716,-3.71893719,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,422
+Contenedor de Ropa,,,,"CALLE DEL MAESTRO ANGEL LLORCA, 10",,,,,,,,,,,Chamberí,,,40.44451537,-3.71403691,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,423
+Contenedor de Ropa,,,,"CALLE DE LA POETA ANGELA FIGUERA, 10",,,,,,,,,,,Chamberí,,,40.44494156,-3.71576352,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,424
+Contenedor de Ropa,,,,"AVENIDA DEL VALLE, 7",,,,,,,,,,,Chamberí,,,40.44389842,-3.71524635,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,425
+Contenedor de Ropa,,,,"CALLE DE SANTANDER, 2",,,,,,,,,,,Chamberí,,,40.44288009,-3.7095691,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,426
+Contenedor de Ropa,,,,"CALLE DE JULIAN ROMEA, 20",,,,,,,,,,,Chamberí,,,40.44283188,-3.71760325,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,427
+Contenedor de Ropa,,,,"AVENIDA DE PABLO IGLESIAS, 13",,,,,,,,,,,Chamberí,,,40.4460747,-3.70789052,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,428
+Contenedor de Ropa,,,,"AVENIDA DE FILIPINAS, 9",NUMERO 9 FTE NUMERO 38,,,,,,,,,,Chamberí,,,40.4410694,-3.70761505,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,429
+Contenedor de Ropa,,,,"CALLE DE CEA BERMUDEZ, 50",,,,,,,,,,,Chamberí,,,40.43914999,-3.71317967,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,430
+Contenedor de Ropa,,,,"PASEO DE SAN FRANCISCO DE SALES, 13",,,,,,,,,,,Chamberí,,,40.44042458,-3.71601197,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,431
+Contenedor de Ropa,,,,"CALLE DE CEA BERMUDEZ, 70",,,,,,,,,,,Chamberí,,,40.43928955,-3.71638653,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,432
+Contenedor de Ropa,,,,"CALLE DE JULIAN ROMEA, 3",FTE. NUMERO 3,,,,,,,,,,Chamberí,,,40.44269514,-3.71371215,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,433
+Contenedor de Ropa,,,,"CALLE DE MELQUIADES ALVAREZ, 8",,,,,,,,,,,Chamberí,,,40.44121436,-3.71244342,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,434
+Contenedor de Ropa,,,,"CALLE DE ANDRES MELLADO, 116",,,,,,,,,,,Chamberí,,,40.44147031,-3.71410588,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,435
+Contenedor de Ropa,,,,"CALLE DE ISAAC PERAL, 48",,,,,,,,,,,Chamberí,,,40.44037729,-3.71775659,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,436
+Contenedor de Ropa,,,,"CALLE DE GALILEO, 110",,,,,,,,,,,Chamberí,,,40.43996581,-3.70991772,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,437
+Contenedor de Ropa,,,,"CALLE DE LUCIO DEL VALLE, 1",,,,,,,,,,,Chamberí,,,40.43993764,-3.70657608,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,438
+Contenedor de ropa,,,,"CALLE DE MIRA EL RIO, 4",,"Centro Sociocultural ""Alfonso XII""",,,,,,,,,Fuencarral - El Pardo,,,40.51970149,-3.77785396,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,439
+Contenedor de ropa,,,,"CALLE DE SAN LEANDRO, 9",,Mercadillo en la vía pública de El Pardo ,,,,,,,,,Fuencarral - El Pardo,,,40.51789997,-3.7756893,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,440
+Contenedor de ropa,,,,"CALLE DE BUITRAGO DEL LOZOYA, 22",,"Centro Servicios Sociales ""San Vicente Paul""",,,,,,,,,Fuencarral - El Pardo,,,40.47261467,-3.71646637,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,441
+Contenedor de ropa,,,,"CALLE DE UBEDA, 6",,Punto Limpio Fijo,,,,,,,,,Fuencarral - El Pardo,,,40.48225456,-3.71652049,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,442
+Contenedor de ropa,,,,"CALLE DE CHANTADA, 51",,,,,,,,,,,Fuencarral - El Pardo,,,40.47335459,-3.71882577,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,443
+Contenedor de Ropa,,,,"CALLE DE LOS RISCOS DE POLANCO, 3",,,,,,,,,,,Fuencarral - El Pardo,,,40.48489132,-3.7227697,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,444
+Contenedor de Ropa,,,,"CALLE DE RAMON GOMEZ DE LA SERNA, 79",,,,,,,,,,,Fuencarral - El Pardo,,,40.48412729,-3.72907894,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,445
+Contenedor de Ropa,,,,"CALLE DE ROSALIA DE CASTRO, 51",,,,,,,,,,,Fuencarral - El Pardo,,,40.48282204,-3.73412701,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,446
+Contenedor de Ropa,,,,"CALLE DE RAMON GOMEZ DE LA SERNA, 60",,,,,,,,,,,Fuencarral - El Pardo,,,40.48189954,-3.7265775,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,447
+Contenedor de Ropa,,,,"AVENIDA DEL CARDENAL HERRERA ORIA, 263",,,,,,,,,,,Fuencarral - El Pardo,,,40.48004719,-3.72270034,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,448
+Contenedor de Ropa,,,,"CALLE DE GABRIELA MISTRAL, 8",,,,,,,,,,,Fuencarral - El Pardo,,,40.47979884,-3.7375464,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,449
+Contenedor de Ropa,,,,"CALLE DE MIGUEL ARACIL, 47",,,,,,,,,,,Fuencarral - El Pardo,,,40.47553386,-3.7254026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,450
+Contenedor de Ropa,,,,"CALLE DE JOAQUIN JORGE ALARCON, 24",,,,,,,,,,,Fuencarral - El Pardo,,,40.47693818,-3.72668015,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,451
+Contenedor de Ropa,,,,"CALLE DE LA BAÑEZA, 37",,,,,,,,,,,Fuencarral - El Pardo,,,40.47570994,-3.71589631,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,452
+Contenedor de ropa,,,,"AVENIDA DE MONFORTE DE LEMOS, 38",,"Centro de Mayores ""La Vaguada""",,,,,,,,,Fuencarral - El Pardo,,,40.4786035,-3.70947127,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,453
+Contenedor de ropa,,,,"CALLE DE RIBADAVIA, 10",,,,,,,,,,,Fuencarral - El Pardo,,,40.47255833,-3.70795792,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,454
+Contenedor de Ropa,,,,"CALLE DE GINZO DE LIMIA, 51",,,,,,,,,,,Fuencarral - El Pardo,,,40.4847693,-3.7082393,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,455
+Contenedor de Ropa,,,,"CALLE DEL PINTOR FRANCISCO LLORENS, 2",,,,,,,,,,,Fuencarral - El Pardo,,,40.48237759,-3.70868167,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,456
+Contenedor de Ropa,,,,"AVENIDA DE MONFORTE DE LEMOS, 101",,,,,,,,,,,Fuencarral - El Pardo,,,40.4790606,-3.70536192,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,457
+Contenedor de Ropa,,,,"CALLE DE MELCHOR FERNANDEZ ALMAGRO, 78",,,,,,,,,,,Fuencarral - El Pardo,,,40.47551255,-3.70983421,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,458
+Contenedor de ropa,,,,"CALLE DE FERMIN CABALLERO, 17",,"Centro de Mayores ""Vocal Vecino  Justo Sierra""",,,,,,,,,Fuencarral - El Pardo,,,40.48601935,-3.70134152,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,459
+Contenedor de ropa,,,,"AVENIDA DE MONFORTE DE LEMOS, 13",,"Centro Deportivo Municipal ""Vicente Del Bosque""",,,,,,,,,Fuencarral - El Pardo,,,40.47891705,-3.69350046,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,460
+Contenedor de ropa,,,,"CALLE DE GINZO DE LIMIA, 2",,"Colegio Público ""Breogan""",,,,,,,,,Fuencarral - El Pardo,,,40.47559469,-3.70244991,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,461
+Contenedor de Ropa,,,,"CALLE DE FERMIN CABALLERO, 52",,,,,,,,,,,Fuencarral - El Pardo,,,40.48445407,-3.7064736,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,462
+Contenedor de Ropa,,,,"CALLE DE ALFREDO MARQUERIE, 1",,,,,,,,,,,Fuencarral - El Pardo,,,40.48625734,-3.6964622,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,463
+Contenedor de Ropa,,,,"CALLE DE ANTONIO LOPEZ AGUADO, 22",,,,,,,,,,,Fuencarral - El Pardo,,,40.48168838,-3.70287408,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,464
+Contenedor de Ropa,,,,"CALLE DE MELCHOR FERNANDEZ ALMAGRO, 26",,,,,,,,,,,Fuencarral - El Pardo,,,40.47746328,-3.70186474,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,465
+Contenedor de Ropa,,,,"CALLE DE GINZO DE LIMIA, 42",,,,,,,,,,,Fuencarral - El Pardo,,,40.47830917,-3.70367725,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,466
+Contenedor de ropa,,,,"CALLE DE SAN CUGAT DEL VALLES, 8",,Mercadillo en la vía pública de Santa Ana ,,,,,,,,,Fuencarral - El Pardo,,,40.49690001,-3.69529998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,467
+Contenedor de Ropa,,,,"AVENIDA DEL CAMPO DE CALATRAVA, 5",,,,,,,,,,,Fuencarral - El Pardo,,,40.50049537,-3.69290196,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,468
+Contenedor de Ropa,,,,"CALLE DE TOQUES, 15",,,,,,,,,,,Fuencarral - El Pardo,,,40.50861652,-3.66932878,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,469
+Contenedor de Ropa,,,,"PASEO DE SAN MILLAN DE LA COGOLLA, 5",,,,,,,,,,,Fuencarral - El Pardo,,,40.50407073,-3.67030958,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,470
+Contenedor de Ropa,,,,"CALLE DE ANTONIORROBLES, 8",,,,,,,,,,,Fuencarral - El Pardo,,,40.48746806,-3.6913446,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,471
+Contenedor de Ropa,,,,"AVENIDA DEL CARDENAL HERRERA ORIA, 8",,,,,,,,,,,Fuencarral - El Pardo,,,40.4911494,-3.68714155,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,472
+Contenedor de Ropa,,,,"CALLE DE FEDERICO MOMPOU, 2",,,,,,,,,,,Fuencarral - El Pardo,,,40.51037727,-3.6788269,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,473
+Contenedor de Ropa,,,,"CALLE DE CASTIELLO DE JACA, 6",,,,,,,,,,,Fuencarral - El Pardo,,,40.50261019,-3.67583858,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,474
+Contenedor de ropa,,,,"GLORIETA DE LA PRADERA DE VAQUERIZAS, 9",,"Centro Cultural ""Alfredo Kraus""",,,,,,,,,Fuencarral - El Pardo,,,40.49081113,-3.72165084,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,475
+Contenedor de ropa,,,,"CALLE DE LA MASO, 103",,"Centro Deportivo Municipal ""La Masó""",,,,,,,,,Fuencarral - El Pardo,,,40.48465186,-3.71472849,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,476
+Contenedor de ropa,,,,"CALLE DE NURIA, 81",,"Instalación Deportiva Municipal ""Mirasierra""",,,,,,,,,Fuencarral - El Pardo,,,40.49486336,-3.71121867,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,477
+Contenedor de ropa,,,,"CALLE DEL MONASTERIO DE LAS HUELGAS, 15",,,,,,,,,,,Fuencarral - El Pardo,,,40.5027323,-3.70701503,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,478
+Contenedor de ropa,,,,"CALLE DE LOS MONASTERIOS DE SUSO Y YUSO, 27",,,,,,,,,,,Fuencarral - El Pardo,,,40.50236212,-3.69911934,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,479
+Contenedor de Ropa,,,,"CALLE DE NURIA, 63",,,,,,,,,,,Fuencarral - El Pardo,,,40.49398284,-3.7088083,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,480
+Contenedor de Ropa,,,,"AVENIDA DEL VENTISQUERO DE LA CONDESA, 31",,,,,,,,,,,Fuencarral - El Pardo,,,40.49004224,-3.71615898,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,481
+Contenedor de Ropa,,,,"AVENIDA DEL VENTISQUERO DE LA CONDESA, 32",,,,,,,,,,,Fuencarral - El Pardo,,,40.49267189,-3.71641727,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,482
+Contenedor de Ropa,,,,"CALLE DE NURIA, 26",,,,,,,,,,,Fuencarral - El Pardo,,,40.49172228,-3.70497132,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,483
+Contenedor de Ropa,,,,"AVENIDA DEL MONASTERIO DE SILOS, 20",,,,,,,,,,,Fuencarral - El Pardo,,,40.50297707,-3.70832361,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,484
+Contenedor de Ropa,,,,"AVENIDA DEL MONASTERIO DE EL ESCORIAL, 33",,,,,,,,,,,Fuencarral - El Pardo,,,40.50434253,-3.7031986,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,485
+Contenedor de Ropa,,,,"AVENIDA DEL MONASTERIO DE SILOS, 63",,,,,,,,,,,Fuencarral - El Pardo,,,40.50583597,-3.69555272,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,486
+Contenedor de Ropa,,,,"CALLE DEL MONASTERIO DE CAAVEIRO, 10",,,,,,,,,,,Fuencarral - El Pardo,,,40.50513037,-3.69703235,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,487
+Contenedor de Ropa,,,,"CALLE DEL MONASTERIO DE OSEIRA, 28",,,,,,,,,,,Fuencarral - El Pardo,,,40.51177149,-3.69472577,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,488
+Contenedor de Ropa,,,,"CALLE DEL MONASTERIO DE GUADALUPE, 7",,,,,,,,,,,Fuencarral - El Pardo,,,40.50665984,-3.70487395,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,489
+Contenedor de ropa,,,,"CALLE DE SANTA FE, 1",,"Centro Deportivo Municipal ""José María Cagigal""",,,,,,,,,Moncloa - Aravaca,,,40.43113716,-3.73532758,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,490
+Contenedor de ropa,,,,"PASEO DEL REY, 35",,Punto Limpio Fijo,,,,,,,,,Moncloa - Aravaca,,,40.42532511,-3.72297515,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,491
+Contenedor de Ropa,,,,"PASEO DE LA FLORIDA, 18",,,,,,,,,,,Moncloa - Aravaca,,,40.42351042,-3.72348127,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,492
+Contenedor de Ropa,,,,"PASEO DEL COMANDANTE FORTEA, 45",,,,,,,,,,,Moncloa - Aravaca,,,40.42713548,-3.73223504,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,493
+Contenedor de Ropa,,,,"PASEO DEL COMANDANTE FORTEA, 1",,,,,,,,,,,Moncloa - Aravaca,,,40.42405723,-3.72774795,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,494
+Contenedor de Ropa,,,,"CALLE DE QUINTANA, 32",,,,,,,,,,,Moncloa - Aravaca,,,40.42709734,-3.71928173,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,495
+Contenedor de Ropa,,,,"CALLE DE JUAN MONTALVO, 33",,,,,,,,,,,Moncloa - Aravaca,,,40.44682293,-3.71368397,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,496
+Contenedor de Ropa,,,,"AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI, 90",,,,,,,,,,,Moncloa - Aravaca,,,40.45547233,-3.71303411,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,497
+Contenedor de ropa,,,,"CALLE DE FRANCOS RODRIGUEZ, 102",,"Centro Cultural ""Juan Gris""",,,,,,,,,Moncloa - Aravaca,,,40.45783124,-3.71253083,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,498
+Contenedor de ropa,,,,"CALLE DE ANTONIO MACHADO, 20",,"Centro Cultural ""Julio Cortazar""",,,,,,,,,Moncloa - Aravaca,,,40.46679972,-3.71970698,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,499
+Contenedor de ropa,,,,"CALLE DE ANTONIO MACHADO, 12",,"Centro Deportivo Municipal ""Ciudad De Los Poetas""",,,,,,,,,Moncloa - Aravaca,,,40.46599969,-3.71908667,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,500
+Contenedor de ropa,,,,"CALLE DE SAN RESTITUTO, 24",,Mercadillo en la vía pública de San Restituto ,,,,,,,,,Moncloa - Aravaca,,,40.46509998,-3.71201997,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,501
+Contenedor de ropa,,,,"AVENIDA DEL SANTO ANGEL DE LA GUARDA, 23",,"Centro Deportivo Municipal ""Fernando Martín""",,,,,,,,,Moncloa - Aravaca,,,40.46044656,-3.71214688,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,502
+Contenedor de ropa,,,,"CALLE DEL ALCALDE MARTIN DE ALZAGA, 2",,,,,,,,,,,Moncloa - Aravaca,,,40.46296507,-3.71691845,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,503
+Contenedor de Ropa,,,,"CALLE DE EMERENCIANA ZURILLA, 4",,,,,,,,,,,Moncloa - Aravaca,,,40.46518535,-3.71463803,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,504
+Contenedor de Ropa,,,,"CALLE DE SAN GERARDO, 11",,,,,,,,,,,Moncloa - Aravaca,,,40.4672164,-3.7215748,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,505
+Contenedor de Ropa,,,,"CALLE DE PILAR ANDRADE, 2",,,,,,,,,,,Moncloa - Aravaca,,,40.46943786,-3.82144263,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,506
+Contenedor de ropa,,,,"CALLE DEL ARROYO DE POZUELO, 99",,"Centro Deportivo Municipal ""Alfredo Goyeneche""",,,,,,,,,Moncloa - Aravaca,,,40.45192254,-3.78306407,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,507
+Contenedor de Ropa,,,,"RONDA DE LA BUGANVILLA DEL REY, 24",,,,,,,,,,,Moncloa - Aravaca,,,40.45593145,-3.7655961,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,508
+Contenedor de Ropa,,,,"CALLE DE FERNANDO VIZCAINO CASAS, 13",,,,,,,,,,,Moncloa - Aravaca,,,40.46096379,-3.79579764,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,509
+Contenedor de Ropa,,,,"CALLE DE BERENISA, 34",,,,,,,,,,,Moncloa - Aravaca,,,40.45756903,-3.7828031,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,510
+Contenedor de ropa,,,,"CALLE   VIA CARPETANA, 139",,,,,,,,,,,Latina,,,40.3930099,-3.74087026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,511
+Contenedor de ropa,,,,"CALLE DE GALLUR, 10",,"Centro Deportivo Municipal ""Gallur""",,,,,,,,,Latina,,,40.39867374,-3.73588179,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,512
+Contenedor de ropa,,,,"AVENIDA DE NUESTRA SEÑORA DE VALVANERA, 120",,Colegio República del Uruguay,,,,,,,,,Latina,,,40.3936802,-3.74146879,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,513
+Contenedor de ropa,,,,"AVENIDA DE LOS CAPRICHOS, 1",,"Instalación Deportiva Municipal Básica ""Los Caprichos""",,,,,,,,,Latina,,,40.40589195,-3.72850937,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,514
+Contenedor de ropa,,,,"AVENIDA DE ANGEL SANZ BRIZ, 4",junto entrada SELUR,Punto Limpio Fijo,,,,,,,,,Latina,,,40.40059614,-3.73560885,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,515
+Contenedor de Ropa,,,,"CALLE DEL CONCEJAL FRANCISCO JOSE JIMENEZ MARTIN, 1",,,,,,,,,,,Latina,,,40.40301034,-3.73108296,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,516
+Contenedor de Ropa,,,,"CALLE DE LA ALHAMBRA, 28",,,,,,,,,,,Latina,,,40.40113608,-3.74461413,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,517
+Contenedor de Ropa,,,,"CALLE DEL CONCEJAL FRANCISCO JOSE JIMENEZ MARTIN, 74",,,,,,,,,,,Latina,,,40.40113881,-3.74064692,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,518
+Contenedor de Ropa,,,,"CALLE DE SEPULVEDA, 75",,,,,,,,,,,Latina,,,40.40447575,-3.74278899,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,519
+Contenedor de Ropa,,,,"AVENIDA DEL MANZANARES, 16",,,,,,,,,,,Latina,,,40.40842564,-3.7224064,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,520
+Contenedor de Ropa,,,,"PASEO DE LA ERMITA DEL SANTO, 48",,,,,,,,,,,Latina,,,40.40696313,-3.72444098,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,521
+Contenedor de Ropa,,,,"CALLE DE GOTARRENDURA, 12",,,,,,,,,,,Latina,,,40.40224273,-3.73644455,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,522
+Contenedor de Ropa,,,,"CALLE DE CARLOS FUENTES, 37",,,,,,,,,,,Latina,,,40.40284382,-3.74287812,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,523
+Contenedor de Ropa,,,,"CALLE DE RIOCABADO, 22",,,,,,,,,,,Latina,,,40.40349999,-3.74003469,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,524
+Contenedor de ropa,,,,"CALLE DE PERICLES, 4",,"Centro de Mayores ""Cerro Bermejo""",,,,,,,,,Latina,,,40.40937996,-3.72989475,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,525
+Contenedor de Ropa,,,,"CALLE DE PABLO CASALS, 4",,,,,,,,,,,Latina,,,40.41115183,-3.72437504,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,526
+Contenedor de Ropa,,,,"CALLE DE SAN TIMOTEO, 13",,,,,,,,,,,Latina,,,40.40502107,-3.73557744,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,527
+Contenedor de Ropa,,,,"PASEO DE EXTREMADURA, 152",,,,,,,,,,,Latina,,,40.41008059,-3.73835778,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,528
+Contenedor de Ropa,,,,"PASEO DE LOS OLIVOS, 119",,,,,,,,,,,Latina,,,40.40571497,-3.74173097,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,529
+Contenedor de Ropa,,,,"PASEO DE EXTREMADURA, 140",,,,,,,,,,,Latina,,,40.41058323,-3.73700858,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,530
+Contenedor de Ropa,,,,"AVENIDA DE PORTUGAL, 121",,,,,,,,,,,Latina,,,40.412278,-3.7351297,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,531
+Contenedor de Ropa,,,,"AVENIDA DE PORTUGAL, 1",,,,,,,,,,,Latina,,,40.41160018,-3.73695931,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,532
+Contenedor de Ropa,,,,"PASEO DE LOS JESUITAS, 48",,,,,,,,,,,Latina,,,40.40712547,-3.73538452,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,533
+Contenedor de Ropa,,,,"CALLE DE NAVAS DEL REY, 25",,,,,,,,,,,Latina,,,40.40847282,-3.73700531,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,534
+Contenedor de Ropa,,,,"CALLE DE PABLO CASALS, 20",,,,,,,,,,,Latina,,,40.40876981,-3.72531533,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,535
+Contenedor de Ropa,,,,"PLAZA DE LA PUERTA DEL ANGEL, 2",,,,,,,,,,,Latina,,,40.41405019,-3.7290768,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,536
+Contenedor de Ropa,,,,"CALLE DE PERICLES, 37",,,,,,,,,,,Latina,,,40.40883395,-3.73347249,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,537
+Contenedor de Ropa,,,,"PASEO DE LA ERMITA DEL SANTO, 5",,,,,,,,,,,Latina,,,40.41008588,-3.72336192,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,538
+Contenedor de Ropa,,,,"CALLE DE LA HUERTA DE CASTAÑEDA, 13",,,,,,,,,,,Latina,,,40.40745792,-3.7416051,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,539
+Contenedor de ropa,,,,"CALLE DEL OLIVILLO, 4",,"Centro Deportivo Municipal ""El Olivillo""",,,,,,,,,Latina,,,40.40656345,-3.7458872,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,540
+Contenedor de ropa,,,,"CALLE DE CAMARENA, 10",,"Centro Cultural ""Fernando De Los Rios""",,,,,,,,,Latina,,,40.39561974,-3.75664317,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,541
+Contenedor de ropa,,,,"CALLE DE CAMARENA, 2",,CEIP Amadeo Vives,,,,,,,,,Latina,,,40.39702176,-3.75583268,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,542
+Contenedor de Ropa,,,,"CALLE DE VALMOJADO, 47",,,,,,,,,,,Latina,,,40.39684692,-3.75714605,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,543
+Contenedor de Ropa,,,,"CALLE DE VALMOJADO, 67",,,,,,,,,,,Latina,,,40.39444243,-3.75792555,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,544
+Contenedor de Ropa,,,,"AVENIDA DEL PADRE PIQUER, 2",,,,,,,,,,,Latina,,,40.39512322,-3.7686279,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,545
+Contenedor de Ropa,,,,"CALLE DE ESCALONA, 111",,,,,,,,,,,Latina,,,40.39446016,-3.76744166,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,546
+Contenedor de Ropa,,,,"CALLE DE PILAR, 42",,,,,,,,,,,Latina,,,40.39364307,-3.76986916,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,547
+Contenedor de Ropa,,,,"AVENIDA DEL PADRE PIQUER, 31",,,,,,,,,,,Latina,,,40.39088359,-3.76691534,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,548
+Contenedor de Ropa,,,,"CALLE DE TEMBLEQUE, 106",,,,,,,,,,,Latina,,,40.39166166,-3.76383195,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,549
+Contenedor de Ropa,,,,"CALLE DE MAQUEDA, 23",,,,,,,,,,,Latina,,,40.39342208,-3.76436994,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,550
+Contenedor de Ropa,,,,"CALLE DE ILLESCAS, 11",,,,,,,,,,,Latina,,,40.39657802,-3.76543544,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,551
+Contenedor de Ropa,,,,"CALLE DE SESEÑA, 6",,,,,,,,,,,Latina,,,40.39804554,-3.7590484,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,552
+Contenedor de Ropa,,,,"CALLE DE TEMBLEQUE, 70",,,,,,,,,,,Latina,,,40.39477485,-3.76011056,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,553
+Contenedor de Ropa,,,,"CALLE DE CAMARENA, 87",,,,,,,,,,,Latina,,,40.39351497,-3.75565189,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,554
+Contenedor de Ropa,,,,"CALLE DE LOS YEBENES, 54",,,,,,,,,,,Latina,,,40.39465482,-3.75299635,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,555
+Contenedor de Ropa,,,,"CALLE DE LA LAGUNA, 12",,,,,,,,,,,Latina,,,40.39228269,-3.7424288,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,556
+Contenedor de Ropa,,,,"CALLE DE SESEÑA, 34",,,,,,,,,,,Latina,,,40.39839375,-3.76235988,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,557
+Contenedor de ropa,,,,"CARRETERA DE BOADILLA DEL MONTE, 40",,"Centro Cultural ""Sara Montiel""",,,,,,,,,Latina,,,40.39968531,-3.77473591,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,558
+Contenedor de Ropa,,,,"PASEO DE LOS LANCEROS, 2",,,,,,,,,,,Latina,,,40.37889797,-3.79312199,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,559
+Contenedor de Ropa,,,,"CALLE DEL VALLE DE BOI, 8",,,,,,,,,,,Latina,,,40.36633088,-3.76345571,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,560
+Contenedor de Ropa,,,,"CALLE DE LAS TROMPAS, 11",FRTE 11,,,,,,,,,,Latina,,,40.3724612,-3.77065964,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,561
+Contenedor de Ropa,,,,"CALLE DE LOS TIMBALES, 2",,,,,,,,,,,Latina,,,40.37298689,-3.76682051,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,562
+Contenedor de Ropa,,,,"CALLE DE LA SINFONIA, 16",,,,,,,,,,,Latina,,,40.37360767,-3.77537553,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,563
+Contenedor de Ropa,,,,"CALLE DE LAS IGLESIAS EXTRAMUROS, 5",,,,,,,,,,,Latina,,,40.36829095,-3.76290465,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,564
+Contenedor de ropa,,,,"CALLE DE SERRADILLA, 13",,"Centro Cultural ""Miguel HernÃ¡ndez""",,,,,,,,,Latina,,,40.37879388,-3.78194022,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,565
+Contenedor de ropa,,,,"CALLE DE RAFAEL FINAT, 47",,"Centro de Mayores ""Ciudad De Mejico""",,,,,,,,,Latina,,,40.37963546,-3.76891845,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,566
+Contenedor de ropa,,,,"CALLE DE JOSE DE CADALSO, 1",,"Centro Deportivo Municipal ""Aluche""",,,,,,,,,Latina,,,40.38308206,-3.77211139,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,567
+Contenedor de ropa,,,,"CALLE DE LA FUENTE DEL TIRO, 72",,"Centro Sociocultural ""Almirante Churruca""",,,,,,,,,Latina,,,40.38299216,-3.78007391,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,568
+Contenedor de ropa,,,,"CALLE DE RODRIGO DE ARANA, 48",,"Centro Sociocultural ""Latina""",,,,,,,,,Latina,,,40.37943726,-3.76558888,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,569
+Contenedor de ropa,,,,"CALLE DEL FUERTE DE NAVIDAD, 7",,"Instalación Deportiva Básica ""Fuerte De Navidad""",,,,,,,,,Latina,,,40.38106829,-3.76539035,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,570
+Contenedor de ropa,,,,"AVENIDA DE LAS AGUILAS, 110",,"Instalación Deportiva Básica ""Jardines General Fanjul""",,,,,,,,,Latina,,,40.38111076,-3.7806785,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,571
+Contenedor de ropa,,,,"AVENIDA DE LOS POBLADOS, 62",,Mercadillo en la vía pública de Rafael Finat ,,,,,,,,,Latina,,,40.38489999,-3.76120996,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,572
+Contenedor de Ropa,,,,"CALLE DE MONROY, 28",,,,,,,,,,,Latina,,,40.37831036,-3.78366072,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,573
+Contenedor de Ropa,,,,"CALLE DE LOGROSAN, 8",,,,,,,,,,,Latina,,,40.37536732,-3.77874172,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,574
+Contenedor de Ropa,,,,"CALLE DE LA FUENTE DEL TIRO, 36",,,,,,,,,,,Latina,,,40.38328353,-3.78271162,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,575
+Contenedor de Ropa,,,,"CALLE DE FAUSTINO CORDON BONET, 9",,,,,,,,,,,Latina,,,40.38529817,-3.7812807,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,576
+Contenedor de Ropa,,,,"AVENIDA DE LAS AGUILAS, 54",,,,,,,,,,,Latina,,,40.38258115,-3.77909291,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,577
+Contenedor de Ropa,,,,"AVENIDA DE LAS AGUILAS, 68",,,,,,,,,,,Latina,,,40.38172796,-3.77918486,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,578
+Contenedor de Ropa,,,,"CALLE DE MIRABEL, 1",,,,,,,,,,,Latina,,,40.37614776,-3.78138442,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,579
+Contenedor de Ropa,,,,"CALLE DE BLAS CABRERA, 40",Fte 40,,,,,,,,,,Latina,,,40.37915536,-3.77492482,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,580
+Contenedor de Ropa,,,,"CALLE DE VALLE INCLAN, 29",,,,,,,,,,,Latina,,,40.38000929,-3.77170477,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,581
+Contenedor de Ropa,,,,"CALLE DE ALDEANUEVA DE LA VERA, 3",,,,,,,,,,,Latina,,,40.38132546,-3.77647768,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,582
+Contenedor de Ropa,,,,"CALLE DE OLIVA DE PLASENCIA, 4",,,,,,,,,,,Latina,,,40.37841717,-3.77893849,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,583
+Contenedor de Ropa,,,,"CALLE DE OSA DE LA VEGA, 5",,,,,,,,,,,Latina,,,40.37522297,-3.77486466,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,584
+Contenedor de Ropa,,,,"CALLE DE BLAS CABRERA, 81",,,,,,,,,,,Latina,,,40.37801649,-3.77271302,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,585
+Contenedor de Ropa,,,,"CALLE DE ANSELMO LORENZO, 28",,,,,,,,,,,Latina,,,40.38209461,-3.76972013,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,586
+Contenedor de Ropa,,,,"AVENIDA DE LAS AGUILAS, 21",,,,,,,,,,,Latina,,,40.38375864,-3.76738004,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,587
+Contenedor de Ropa,,,,"CALLE DE LA VIDAUBA, 12",,,,,,,,,,,Latina,,,40.3817779,-3.76307621,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,588
+Contenedor de Ropa,,,,"CALLE DEL GENERAL MILLAN ASTRAY, 38",,,,,,,,,,,Latina,,,40.37641806,-3.76597978,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,589
+Contenedor de Ropa,,,,"CALLE DE GUAREÑA, 10",,,,,,,,,,,Latina,,,40.38787638,-3.76588954,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,590
+Contenedor de Ropa,,,,"CALLE DE NAVIA, 10",,,,,,,,,,,Latina,,,40.38650735,-3.76902803,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,591
+Contenedor de Ropa,,,,"CALLE DE ADONIS, 1",,,,,,,,,,,Latina,,,40.38658968,-3.77376541,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,592
+Contenedor de Ropa,,,,"CALLE DEL ARO, 17",,,,,,,,,,,Latina,,,40.38889579,-3.77197356,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,593
+Contenedor de Ropa,,,,"CALLE DE ALDEANUEVA DE LA VERA, 32",,,,,,,,,,,Latina,,,40.37863541,-3.77634395,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,594
+Contenedor de Ropa,,,,"CALLE VIRGEN DEL CAMINO, 9",,,,,,,,,,,Latina,,,40.37631887,-3.7626924,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,595
+Contenedor de Ropa,,,,"CALLE MELILOTO, 2",,,,,,,,,,,Latina,,,40.38831449,-3.77068856,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,596
+Contenedor de Ropa,,,,"CALLE DE SOLEDAD CAZORLA, 54",,,,,,,,,,,Latina,,,40.37386138,-3.7642926,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,597
+Contenedor de Ropa,,,,"CALLE DE GUAREÑA, 22",,,,,,,,,,,Latina,,,40.38551984,-3.76510664,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,598
+Contenedor de ropa,,,,"CALLE DE EDUARDO RIVAS, 18",,,,,,,,,,,Carabanchel,,,40.39072005,-3.71332029,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,599
+Contenedor de ropa,,,,"CALLE DE BALEARES, 43",,,,,,,,,,,Carabanchel,,,40.3926296,-3.71308947,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,600
+Contenedor de ropa,,,,"CALLE DEL PARADOR DEL SOL, 1",,,,,,,,,,,Carabanchel,,,40.39420008,-3.7086603,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,601
+Contenedor de ropa,,,,"AVENIDA DEL MANZANARES, 166",,,,,,,,,,,Carabanchel,,,40.3955602,-3.70825979,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,602
+Contenedor de ropa,,,,"CALLE DE ANTONIO LOPEZ, 3",frente,,,,,,,,,,Carabanchel,,,40.39739008,-3.7146798,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,603
+Contenedor de Ropa,,,,"CALLE DEL MARQUES DE JURA REAL, 26",,,,,,,,,,,Carabanchel,,,40.39116426,-3.71089498,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,604
+Contenedor de ropa,,,,"CALLE DE PORTALEGRE, 102",frente,,,,,,,,,,Carabanchel,,,40.38583967,-3.72364011,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,605
+Contenedor de ropa,,,,"CALLE DE ANTONIA LANCHA, 37",,"Centro de Mayores ""San Vicente Paúl""",,,,,,,,,Carabanchel,,,40.38598,-3.72280983,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,606
+Contenedor de ropa,,,,"CALLE DE LA VIA, 17",,,,,,,,,,,Carabanchel,,,40.38636347,-3.72041423,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,607
+Contenedor de ropa,,,,"CALLE DE SANTA LUCRECIA, 7",,,,,,,,,,,Carabanchel,,,40.3865097,-3.71876967,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,608
+Contenedor de ropa,,,,"CALLE DE MERCEDES ARTEAGA, 43",,,,,,,,,,,Carabanchel,,,40.39110971,-3.7228199,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,609
+Contenedor de ropa,,,,"CALLE DE ANTONIO DE LEYVA, 72",frente,,,,,,,,,,Carabanchel,,,40.39030967,-3.71602001,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,610
+Contenedor de ropa,,,,"CALLE DE ANTONIO DE LEYVA, 18",frente,,,,,,,,,,Carabanchel,,,40.39468027,-3.71567982,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,611
+Contenedor de ropa,,,,"CALLE DE JACINTO VERDAGUER, 18",,,,,,,,,,,Carabanchel,,,40.39579249,-3.71661166,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,612
+Contenedor de ropa,,,,"AVENIDA DE OPORTO, 84",,,,,,,,,,,Carabanchel,,,40.38669023,-3.72835954,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,613
+Contenedor de ropa,,,,"CALLE DE VALLE DE ORO,5",,,,,,,,,,,Carabanchel,,,40.3881084,-3.7294736,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,614
+Contenedor de ropa,,,,"CALLE DE LA VERDAD, 29",,"Centro Cultural ""Fernando Lázaro Carreter""",,,,,,,,,Carabanchel,,,40.39153974,-3.71712999,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,615
+Contenedor de ropa,,,,"AVENIDA DE OPORTO, 6",,,,,,,,,,,Carabanchel,,,40.38534489,-3.71948349,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,616
+Contenedor de ropa,,,,"CALLE DE VALLE DE ORO, 20",,,,,,,,,,,Carabanchel,,,40.38779506,-3.72855241,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,617
+Contenedor de ropa,,,,"CALLE DE ANTONIO DE LEYVA, 73",,,,,,,,,,,Carabanchel,,,40.38838616,-3.71644129,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,618
+Contenedor de Ropa,,,,"CALLE DE SALLABERRY, 4",,,,,,,,,,,Carabanchel,,,40.39445861,-3.7204266,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,619
+Contenedor de Ropa,,,,"CALLE DE PORTALEGRE, 84",,,,,,,,,,,Carabanchel,,,40.38781218,-3.72343889,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,620
+Contenedor de ropa,,,,"CALLE DEL TERCIO, 32",,,,,,,,,,,Carabanchel,,,40.39397988,-3.73115052,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,621
+Contenedor de ropa,,,,"PLAZA DE ROGER DE FLOR, 15",,,,,,,,,,,Carabanchel,,,40.39411991,-3.73237039,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,622
+Contenedor de ropa,,,,"CALLE DEL COMANDANTE FONTANES, 8",,"Centro Atención Mujeres ""María Maeztu""",,,,,,,,,Carabanchel,,,40.39533984,-3.72175044,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,623
+Contenedor de ropa,,,,"AVENIDA DE PEDRO DIEZ, 1",,,,,,,,,,,Carabanchel,,,40.39058044,-3.72906008,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,624
+Contenedor de ropa,,,,"CALLE DE SANTA SATURNINA, 10",,,,,,,,,,,Carabanchel,,,40.39912229,-3.71801041,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,625
+Contenedor de ropa,,,,"CALLE DE LA ZAIDA, 36",,,,,,,,,,,Carabanchel,,,40.39333971,-3.73606058,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,626
+Contenedor de ropa,,,,"PLAZA DE JULIO CORTAZAR, 1",,,,,,,,,,,Carabanchel,,,40.39731691,-3.73106766,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,627
+Contenedor de Ropa,,,,"CALLE DE LA ZAIDA, 49",frente,,,,,,,,,,Carabanchel,,,40.39503118,-3.73575804,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,628
+Contenedor de ropa,,,,"CALLE DE ALGORTA, 17",frente,,,,,,,,,,Carabanchel,,,40.39194246,-3.72926632,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,629
+Contenedor de ropa,,,,"CALLE DEL ALCAUDON, 39",,,,,,,,,,,Carabanchel,,,40.39469086,-3.73457899,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,630
+Contenedor de ropa,,,,"CALLE DEL COMANDANTE FONTANES, 11",,,,,,,,,,,Carabanchel,,,40.39521752,-3.72331095,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,631
+Contenedor de ropa,,,,"CALLE DE BLASA PEREZ, 8",C,,,,,,,,,,Carabanchel,,,40.39231817,-3.72724215,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,632
+Contenedor de ropa,,,,"CALLE DE LA LAGUNA, 87",,,,,,,,,,,Carabanchel,,,40.39147014,-3.74201043,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,633
+Contenedor de ropa,,,,"CALLE DE EUGENIA DE MONTIJO, 74",,,,,,,,,,,Carabanchel,,,40.37942624,-3.74702373,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,634
+Contenedor de ropa,,,,"CALLE DE EUGENIA DE MONTIJO, 38",frente,,,,,,,,,,Carabanchel,,,40.38224838,-3.74269455,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,635
+Contenedor de ropa,,,,"AVENIDA DE NUESTRA SEÑORA DE FATIMA, 90",,,,,,,,,,,Carabanchel,,,40.38112991,-3.74852009,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,636
+Contenedor de ropa,,,,"CALLE DEL MONSEÑOR OSCAR ROMERO, 52",,Residencia Orpea Carabanchel,,,,,,,,,Carabanchel,,,40.38205966,-3.74503028,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,637
+Contenedor de ropa,,,,"CALLE DE NUESTRA SEÑORA DE LA LUZ, 12",,,,,,,,,,,Carabanchel,,,40.38320987,-3.74324987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,638
+Contenedor de ropa,,,,"AVENIDA DE NUESTRA SEÑORA DE FATIMA, 43",frente,,,,,,,,,,Carabanchel,,,40.38439042,-3.74654983,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,639
+Contenedor de ropa,,,,"CALLE   VIA CARPETANA, 199",,,,,,,,,,,Carabanchel,,,40.38894956,-3.74408941,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,640
+Contenedor de ropa,,,,"AVENIDA DE NUESTRA SEÑORA DE FATIMA, 2",,,,,,,,,,,Carabanchel,,,40.38695977,-3.7436198,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,641
+Contenedor de ropa,,,,"AVENIDA DE LA PLAZA DE TOROS, 3",,,,,,,,,,,Carabanchel,,,40.38542958,-3.73750017,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,642
+Contenedor de ropa,,,,"CALLE DEL MONSEÑOR OSCAR ROMERO, 32",frente,,,,,,,,,,Carabanchel,,,40.38156315,-3.74374577,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,643
+Contenedor de ropa,,,,"CALLE DE LA OCA, 51",,,,,,,,,,,Carabanchel,,,40.38920477,-3.73811176,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,644
+Contenedor de ropa,,,,"PASEO DE MARCELINO CAMACHO, 11",,,,,,,,,,,Carabanchel,,,40.38548114,-3.74050317,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,645
+Contenedor de ropa,,,,"CALLE DE ALGODRE, 13",,,,,,,,,,,Carabanchel,,,40.39093039,-3.73922469,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,646
+Contenedor de Ropa,,,,"CALLE DE CASTROJERIZ, 2",,,,,,,,,,,Carabanchel,,,40.38767204,-3.73839646,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,647
+Contenedor de Ropa,,,,"AVENIDA DE NUESTRA SEÑORA DE VALVANERA, 73",,,,,,,,,,,Carabanchel,,,40.39041708,-3.73620877,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,648
+Contenedor de Ropa,,,,"CALLE DEL PARQUE EUGENIA DE MONTIJO, 22",frente,,,,,,,,,,Carabanchel,,,40.37921062,-3.75300737,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,649
+Contenedor de Ropa,,,,"CALLE DE FERNANDO DELGADO, 13",,,,,,,,,,,Carabanchel,,,40.38322046,-3.74872133,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,650
+Contenedor de Ropa,,,,"CALLE DE LA JACOBINIA, 38",,,,,,,,,,,Carabanchel,,,40.37715446,-3.75225687,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,651
+Contenedor de ropa,,,,"CALLE DEL CAMINO VIEJO DE LEGANES, 154",frente,,,,,,,,,,Carabanchel,,,40.38080348,-3.7316336,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,652
+Contenedor de ropa,,,,"CALLE DE FEDERICO GRASES, 2",frente,,,,,,,,,,Carabanchel,,,40.3776201,-3.7485001,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,653
+Contenedor de ropa,,,,"CALLE DEL BLASON, 20",frente,,,,,,,,,,Carabanchel,,,40.38206038,-3.74042985,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,654
+Contenedor de ropa,,,,"CALLE DE LA SOMBRA, 23",frente,,,,,,,,,,Carabanchel,,,40.37959977,-3.74159038,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,655
+Contenedor de ropa,,,,"CALLE DE ALBA DE TORMES, 17",,,,,,,,,,,Carabanchel,,,40.37824032,-3.74313047,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,656
+Contenedor de ropa,,,,"CALLE DE BELZUNEGUI, 20",,,,,,,,,,,Carabanchel,,,40.37627039,-3.73942054,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,657
+Contenedor de ropa,,,,"CALLE DE MARIA ODIAGA, 58",frente,,,,,,,,,,Carabanchel,,,40.37570022,-3.74418041,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,658
+Contenedor de Ropa,,,,"CALLE DE CLARA CAMPOAMOR, 7",,,,,,,,,,,Carabanchel,,,40.38561597,-3.73405435,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,659
+Contenedor de Ropa,,,,"AVENIDA DE OPORTO, 85",,,,,,,,,,,Carabanchel,,,40.38762609,-3.73094502,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,660
+Contenedor de Ropa,,,,"CALLE DE CLARA CAMPOAMOR, 41",esquina calle Ángel Ripoll,,,,,,,,,,Carabanchel,,,40.38279706,-3.73314806,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,661
+Contenedor de Ropa,,,,"CALLE DEL JILGUERO, 5",,,,,,,,,,,Carabanchel,,,40.38378981,-3.72977631,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,662
+Contenedor de ropa,,,,"CALLE DE CARCASTILLO, 25",,,,,,,,,,,Carabanchel,,,40.37788613,-3.73719692,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,663
+Contenedor de ropa,,,,"CALLE DE ALFONSO FERNANDEZ, 23",frente,"Centro Sociocultural ""Carabanchel Alto""",,,,,,,,,Carabanchel,,,40.36688036,-3.75529039,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,664
+Contenedor de ropa,,,,"CALLE DE LA TRESETA, 2",,"Lateral centro Deportivo Municipal ""Francisco Fernández Ochoa""",,,,,,,,,Carabanchel,,,40.36580038,-3.73892583,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,665
+Contenedor de ropa,,,,"CALLE DEL CIDRO, 5",,Punto Limpio Fijo,,,,,,,,,Carabanchel,,,40.36815972,-3.7458395,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,666
+Contenedor de ropa,,,,"CALLE DEL PATRIMONIO DE LA HUMANIDAD, 33",,Centro Atención Adolescentes Aspa,,,,,,,,,Carabanchel,,,40.36169007,-3.76327049,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,667
+Contenedor de ropa,,,,"CALLE DEL HAYA, 14",frente,,,,,,,,,,Carabanchel,,,40.36618984,-3.74759039,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,668
+Contenedor de ropa,,,,"AVENIDA DE LA PESETA, 103",,,,,,,,,,,Carabanchel,,,40.36332008,-3.74666948,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,669
+Contenedor de ropa,,,,"CALLE DE LOS MORALES, 10",,,,,,,,,,,Carabanchel,,,40.36209024,-3.75638993,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,670
+Contenedor de ropa,,,,"CALLE DEL PATRIMONIO DE LA HUMANIDAD, 8",,,,,,,,,,,Carabanchel,,,40.36124985,-3.75883963,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,671
+Contenedor de ropa,,,,"CALLE DE SALVADOR ALLENDE, 22",,,,,,,,,,,Carabanchel,,,40.36386969,-3.75787968,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,672
+Contenedor de ropa,,,,"CALLE DEL PINAR DE SAN JOSE, 50",frente,,,,,,,,,,Carabanchel,,,40.36283997,-3.76676019,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,673
+Contenedor de ropa,,,,"AVENIDA DE LA PESETA, 22",,,,,,,,,,,Carabanchel,,,40.36427955,-3.76323021,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,674
+Contenedor de ropa,,,,"CAMINO DE LAS CRUCES, 17",,,,,,,,,,,Carabanchel,,,40.3696701,-3.75920027,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,675
+Contenedor de ropa,,,,"AVENIDA DE CARABANCHEL ALTO, 90",,,,,,,,,,,Carabanchel,,,40.36787016,-3.75354057,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,676
+Contenedor de ropa,,,,"AVENIDA DE CARABANCHEL ALTO, 36",,,,,,,,,,,Carabanchel,,,40.37222978,-3.75200012,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,677
+Contenedor de ropa,,,,"CALLE DE JOAQUIN TURINA, 15",frente,,,,,,,,,,Carabanchel,,,40.37294039,-3.75217057,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,678
+Contenedor de ropa,,,,"RONDA DE DON BOSCO, 18",frente,,,,,,,,,,Carabanchel,,,40.3752353,-3.75306579,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,679
+Contenedor de ropa,,,,"CALLE DE EUGENIA DE MONTIJO, 89",,,,,,,,,,,Carabanchel,,,40.3749804,-3.75073022,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,680
+Contenedor de ropa,,,,"CALLE DE ANTONIA RODRIGUEZ SACRISTAN, 14",,,,,,,,,,,Carabanchel,,,40.3729182,-3.74297741,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,681
+Contenedor de Ropa,,,,"CAMINO DE LAS CRUCES, 26",frente,,,,,,,,,,Carabanchel,,,40.37374673,-3.75638773,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,682
+Contenedor de Ropa,,,,"CALLE DE RICARDO BELLVER, 1",,,,,,,,,,,Carabanchel,,,40.37362735,-3.760584,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,683
+Contenedor de Ropa,,,,"AVENIDA DE CARABANCHEL ALTO, 134",,,,,,,,,,,Carabanchel,,,40.36406687,-3.75383906,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,684
+Contenedor de ropa,,,,"CALLE DE ANTONIA RODRIGUEZ SACRISTAN, 27",frente,,,,,,,,,,Carabanchel,,,40.37284515,-3.74677089,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,685
+Contenedor de ropa,,,,"CALLE DEL OBOLO, 14",,,,,,,,,,,Carabanchel,,,40.37078822,-3.74138776,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,686
+Contenedor de ropa,,,,"PLAZA DE SAN VICENTE DE PAUL, 4",,,,,,,,,,,Carabanchel,,,40.38518013,-3.7266703,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,687
+Contenedor de ropa,,,,"PLAZA DE SETUBAL, 7",frente,,,,,,,,,,Carabanchel,,,40.38333975,-3.72420005,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,688
+Contenedor de ropa,,,,"CALLE DE ONTANILLA, 2",,"Instalación Deportiva Básica ""Ontanilla""",,,,,,,,,Carabanchel,,,40.37420625,-3.72907293,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,689
+Contenedor de ropa,,,,"CALLE   VIA LUSITANA, 10",,Mercadillo ,,,,,,,,,Carabanchel,,,40.38426251,-3.72068769,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,690
+Contenedor de ropa,,,,"AVENIDA DE OPORTO, 15",,,,,,,,,,,Carabanchel,,,40.38513041,-3.7223686,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,691
+Contenedor de ropa,,,,"CALLE DE ANTONIO ROMERO, 4",,,,,,,,,,,Carabanchel,,,40.37410825,-3.73016516,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,692
+Contenedor de Ropa,,,,"CALLE DE CARRERO JUAN RAMON, 14",esquina calle Carrero Juan Ramón,,,,,,,,,,Carabanchel,,,40.3797888,-3.72949976,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,693
+Contenedor de Ropa,,,,"CALLE DE CAZALEGAS, 5",,,,,,,,,,,Carabanchel,,,40.37508192,-3.72602979,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,694
+Contenedor de Ropa,,,,"CALLE DEL CAMINO VIEJO DE LEGANES, 180",,,,,,,,,,,Carabanchel,,,40.37807596,-3.73360675,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,695
+Contenedor de ropa,,,,"CALLE DEL PELICANO, 6",,,,,,,,,,,Carabanchel,,,40.38369166,-3.72659132,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,696
+Contenedor de ropa,,,,"CALLE DE CESTONA, 5",,"Escuela Municipal De Música ""Maestro Barbieri""",,,,,,,,,Usera,,,40.37283969,-3.71375955,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,697
+Contenedor de ropa,,,,"CALLE DEL CENSO, 4",frente,,,,,,,,,,Usera,,,40.36872299,-3.70541846,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,698
+Contenedor de ropa,,,,"CALLE   GRAN AVENIDA, 33",frente,,,,,,,,,,Usera,,,40.36973091,-3.70608658,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,699
+Contenedor de ropa,,,,"AVENIDA DE RAFAELA YBARRA, 123",,,,,,,,,,,Usera,,,40.36622275,-3.71241959,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,700
+Contenedor de ropa,,,,"CALLE DE GUETARIA, 49",esquina calle Villabona,Mercado Municipal de Orcasitas,,,,,,,,,Usera,,,40.36876241,-3.71544186,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,701
+Contenedor de ropa,,,,"CALLE   GRAN AVENIDA, 29",,,,,,,,,,,Usera,,,40.36995922,-3.70723438,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,702
+Contenedor de ropa,,,,"CALLE DE GAINZA, 331",,,,,,,,,,,Usera,,,40.36572011,-3.71429799,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,703
+Contenedor de ropa,,,,"AVENIDA DE RAFAELA YBARRA, 80",,,,,,,,,,,Usera,,,40.37061272,-3.71239393,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,704
+Contenedor de ropa,,,,"CALLE DEL SIMCA, 6",,,,,,,,,,,Usera,,,40.36633234,-3.70838376,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,705
+Contenedor de Ropa,,,,"CALLE DE GUETARIA, 70",,,,,,,,,,,Usera,,,40.37123303,-3.71568001,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,706
+Contenedor de ropa,,,,"CALLE   GRAN AVENIDA, 18",,,,,,,,,,,Usera,,,40.36901862,-3.70848861,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,707
+Contenedor de Ropa,,,,"CALLE DE GAINZA, 103",frente,,,,,,,,,,Usera,,,40.37066464,-3.71892269,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,708
+Contenedor de Ropa,,,,"CALLE DE GUETARIA, 71",,,,,,,,,,,Usera,,,40.36693399,-3.71562793,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,709
+Contenedor de ropa,,,,"CALLE DE CAMPOTEJAR, 24",,,,,,,,,,,Usera,,,40.36724466,-3.70401381,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,710
+Contenedor de Ropa,,,,"CALLE DE OREJA, 33",,,,,,,,,,,Usera,,,40.36938952,-3.71781304,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,711
+Contenedor de ropa,,,,"CALLE   GRAN AVENIDA, 11",frente,,,,,,,,,,Usera,,,40.36963502,-3.70941638,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,712
+Contenedor de ropa,,,,"CALLE DEL DOCTOR TOLOSA LATOUR, 17",,,,,,,,,,,Usera,,,40.37243021,-3.70221041,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,713
+Contenedor de ropa,,,,"AVENIDA DE ORCASUR, 53",frente,,,,,,,,,,Usera,,,40.36548025,-3.70182027,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,714
+Contenedor de ropa,,,,"CALLE DE ARENAS DEL REY, 1",esquina calle Lanjarón,,,,,,,,,,Usera,,,40.36524961,-3.70092982,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,715
+Contenedor de ropa,,,,"CALLE DE ALBUÑUELAS, 36",frente,,,,,,,,,,Usera,,,40.36578017,-3.69841009,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,716
+Contenedor de ropa,,,,"CALLE DE MARACENA, 22",,"Centro Deportivo Municipal ""Orcasur""",,,,,,,,,Usera,,,40.36870024,-3.69762987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,717
+Contenedor de ropa,,,,"AVENIDA DE LOS POBLADOS, 183",,,,,,,,,,,Usera,,,40.37103238,-3.69693575,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,718
+Contenedor de ropa,,,,"CALLE DE GONZALEZ FEITO, 5",frente,,,,,,,,,,Usera,,,40.38005001,-3.6949196,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,719
+Contenedor de ropa,,,,"CALLE DEL ALERCE, 8",,,,,,,,,,,Usera,,,40.36585797,-3.69547248,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,720
+Contenedor de ropa,,,,"CALLE DE LA ESTAFETA, 31",,,,,,,,,,,Usera,,,40.37183963,-3.69228036,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,721
+Contenedor de ropa,,,,"CALLE DE CARABELOS, 21",frente,,,,,,,,,,Usera,,,40.37492877,-3.69211325,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,722
+Contenedor de ropa,,,,"CAMINO DE PERALES, 152",frente,,,,,,,,,,Usera,,,40.36778006,-3.68593972,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,723
+Contenedor de ropa,,,,"CALLE DE LA SILVINA, 28",,,,,,,,,,,Usera,,,40.36520976,-3.69017965,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,724
+Contenedor de ropa,,,,"CALLE DE PERIANA, 24",,,,,,,,,,,Usera,,,40.36658701,-3.68778951,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,725
+Contenedor de ropa,,,,"AVENIDA DE SAN FERMIN, 11",,,,,,,,,,,Usera,,,40.37140278,-3.6911076,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,726
+Contenedor de Ropa,,,,"CALLE DE ADORA, 3",,,,,,,,,,,Usera,,,40.3691501,-3.68972148,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,727
+Contenedor de ropa,,,,"CALLE DE SAN MARIO, 6",,Iglesia,,,,,,,,,Usera,,,40.3775657,-3.69162792,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,728
+Contenedor de ropa,,,,"CALLE DE LA MEZQUITA, 28",frente,,,,,,,,,,Usera,,,40.37369372,-3.68979712,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,729
+Contenedor de ropa,,,,"CALLE   POPULAR MADRILEÑA, 9",frente,,,,,,,,,,Usera,,,40.37102502,-3.69306458,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,730
+Contenedor de ropa,,,,"CALLE DEL OLIGISTO, 9",,,,,,,,,,,Usera,,,40.36694435,-3.68613152,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,731
+Contenedor de ropa,,,,"CALLE DE ANTONIO LOPEZ, 246",Mercadona,,,,,,,,,,Usera,,,40.3824197,-3.69591941,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,732
+Contenedor de ropa,,,,"CAMINO DE PERALES, 2",,,,,,,,,,,Usera,,,40.38332487,-3.69560272,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,733
+Contenedor de ropa,,,,"AVENIDA DE CORDOBA, 8",,,,,,,,,,,Usera,,,40.38632019,-3.69913,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,734
+Contenedor de ropa,,,,"CALLE DE ANTONIO LOPEZ, 187",,,,,,,,,,,Usera,,,40.38628472,-3.69705493,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,735
+Contenedor de Ropa,,,,"CALLE DE LA PILARICA, 68",,,,,,,,,,,Usera,,,40.38337026,-3.70297436,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,736
+Contenedor de Ropa,,,,"CALLE DE TOMELLOSO, 61",,,,,,,,,,,Usera,,,40.37970395,-3.69980556,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,737
+Contenedor de Ropa,,,,"CALLE DEL CRISTO DE LA VICTORIA, 23",,Escuela Infantil la Cornisa,,,,,,,,,Usera,,,40.38122767,-3.70194592,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,738
+Contenedor de ropa,,,,"CALLE DE ANDRES ARTEAGA, 5",,"Centro Deportivo Municipal ""Moscardó""",,,,,,,,,Usera,,,40.38838034,-3.70598958,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,739
+Contenedor de ropa,,,,"CALLE DE JUAN ESPAÑOL, 2",,,,,,,,,,,Usera,,,40.38667175,-3.70756816,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,740
+Contenedor de ropa,,,,"CALLE DE MIRASIERRA, 2",,,,,,,,,,,Usera,,,40.39063724,-3.70892837,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,741
+Contenedor de ropa,,,,"CALLE DE SAN FILIBERTO, 16",esquina calle Filiberto,,,,,,,,,,Usera,,,40.38561051,-3.71222422,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,742
+Contenedor de ropa,,,,"PASEO DE SANTA MARIA DE LA CABEZA, 177",,,,,,,,,,,Usera,,,40.38648434,-3.71569173,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,743
+Contenedor de ropa,,,,"CALLE DE SAN NICOMEDES, 19",,,,,,,,,,,Usera,,,40.38706927,-3.71364539,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,744
+Contenedor de ropa,,,,"CALLE DEL GENERAL MARVA, 12",esquina calle de la Cuesta,,,,,,,,,,Usera,,,40.38836452,-3.70803172,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,745
+Contenedor de Ropa,,,,"CALLE DE EUGENIO CAXES, 5",frente,,,,,,,,,,Usera,,,40.3918691,-3.70256136,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,746
+Contenedor de ropa,,,,"CALLE DE RICARDO BELTRAN Y ROZPIDE, 73",,"Centro Deportivo Municipal ""Orcasitas""",,,,,,,,,Usera,,,40.37560063,-3.71274543,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,747
+Contenedor de ropa,,,,"AVENIDA DE RAFAELA YBARRA, 16",,,,,,,,,,,Usera,,,40.38205926,-3.71137426,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,748
+Contenedor de ropa,,,,"CALLE DE LA AVENA, 4",,,,,,,,,,,Usera,,,40.37772274,-3.71604353,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,749
+Contenedor de Ropa,,,,"CALLE DEL CERRO BLANCO, 17",frente a Silvio Abad,,,,,,,,,,Usera,,,40.38094719,-3.71626682,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,750
+Contenedor de Ropa,,,,"CALLE DE RICARDO BELTRAN Y ROZPIDE, 12",,,,,,,,,,,Usera,,,40.38085306,-3.71765399,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,751
+Contenedor de Ropa,,,,"CALLE DE MARCELO USERA, 157",,,,,,,,,,,Usera,,,40.38457719,-3.71429335,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,752
+Contenedor de ropa,,,,"CALLE DEL PARQUE DE LA PALOMA, 5",,,,,,,,,,,Usera,,,40.37830418,-3.71462276,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,753
+Contenedor de ropa,,,,"AVENIDA DE RAFAELA YBARRA, 73",,,,,,,,,,,Usera,,,40.37894959,-3.71157987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,754
+Contenedor de ropa,,,,"CALLE DEL CRISTO DE LA VICTORIA, 245",,Punto Limpio Fijo,,,,,,,,,Usera,,,40.37883004,-3.70963014,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,755
+Contenedor de ropa,,,,"CALLE DEL CRISTO DE LA VICTORIA, 108",,,,,,,,,,,Usera,,,40.37984005,-3.70490026,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,756
+Contenedor de ropa,,,,"CALLE DE DOLORES BARRANCO, 52",,,,,,,,,,,Usera,,,40.38322229,-3.70704887,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,757
+Contenedor de ropa,,,,"AVENIDA DE LAS GLORIETAS, 19",,"Centro Cultural ""El Pozo del Tío Raimundo""",,,,,,,,,Puente de Vallecas,,,40.37372056,-3.65961143,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,758
+Contenedor de ropa,,,,"AVENIDA   ENTREVIAS, 88",,,,,,,,,,,Puente de Vallecas,,,40.37841998,-3.66477949,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,759
+Contenedor de ropa,,,,"CALLE DE LOS BARROS, 2",frente,,,,,,,,,,Puente de Vallecas,,,40.37678061,-3.66836895,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,760
+Contenedor de ropa,,,,"RONDA   SUR, 4",,"Centro Deportivo Municipal ""Entrevías""",,,,,,,,,Puente de Vallecas,,,40.37768976,-3.67389016,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,761
+Contenedor de ropa,,,,"CALLE DE PEDROCHES, 8",frente,,,,,,,,,,Puente de Vallecas,,,40.378865,-3.66933095,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,762
+Contenedor de ropa,,,,"CALLE DEL CONDE RODRIGUEZ SAN PEDRO, 58",,,,,,,,,,,Puente de Vallecas,,,40.38336018,-3.67030982,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,763
+Contenedor de ropa,,,,"CALLE DE PEDROCHES, 1",,,,,,,,,,,Puente de Vallecas,,,40.38018255,-3.67051164,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,764
+Contenedor de ropa,,,,"CALLE DE LA MEJORANA, 54",,,,,,,,,,,Puente de Vallecas,,,40.38273799,-3.67385107,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,765
+Contenedor de ropa,,,,"CALLE DE RUIDERA, 9",junto a iglesia,,,,,,,,,,Puente de Vallecas,,,40.38084829,-3.67407122,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,766
+Contenedor de ropa,,,,"CALLE DE CAZORLA, 89",,,,,,,,,,,Puente de Vallecas,,,40.37535635,-3.66471944,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,767
+Contenedor de ropa,,,,"AVENIDA DE LAS GLORIETAS, 20",,,,,,,,,,,Puente de Vallecas,,,40.37316324,-3.65962449,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,768
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE LA MORCUERA, 7",,,,,,,,,,,Puente de Vallecas,,,40.38385045,-3.66731989,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,769
+Contenedor de ropa,,,,"CALLE DEL CONVENIO, 41",frente,,,,,,,,,,Puente de Vallecas,,,40.3906104,-3.67176025,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,770
+Contenedor de ropa,,,,"AVENIDA DE SAN DIEGO, 59",,,,,,,,,,,Puente de Vallecas,,,40.3873338,-3.66866954,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,771
+Contenedor de ropa,,,,"CALLE DE LAS PALOMERAS, 39",,,,,,,,,,,Puente de Vallecas,,,40.38923405,-3.6666057,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,772
+Contenedor de ropa,,,,"CALLE DE MARTINEZ DE LA RIVA, 2",,Mercado Municipal Puente de Vallecas,,,,,,,,,Puente de Vallecas,,,40.39571472,-3.66829339,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,773
+Contenedor de ropa,,,,"AVENIDA DE SAN DIEGO, 144",,,,,,,,,,,Puente de Vallecas,,,40.38378373,-3.66491588,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,774
+Contenedor de ropa,,,,"CALLE DE CARLOS MARTIN ALVAREZ, 100",,,,,,,,,,,Puente de Vallecas,,,40.3859849,-3.66637416,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,775
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE BALBARAN, 15",,,,,,,,,,,Puente de Vallecas,,,40.38445106,-3.66987542,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,776
+Contenedor de ropa,,,,"CALLE DEL PINTOR SOROLLA, 9",,,,,,,,,,,Puente de Vallecas,,,40.3859171,-3.67065016,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,777
+Contenedor de ropa,,,,"CALLE DE CARLOS MARTIN ALVAREZ, 45",,,,,,,,,,,Puente de Vallecas,,,40.38748528,-3.66500157,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,778
+Contenedor de Ropa,,,,"CALLE DE MARTINEZ DE LA RIVA, 56",,,,,,,,,,,Puente de Vallecas,,,40.39153921,-3.66558171,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,779
+Contenedor de ropa,,,,"CALLE DE MELQUIADES BIENCINTO, 11",con Melquiades Biencinto,,,,,,,,,,Puente de Vallecas,,,40.39678859,-3.66994158,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,780
+Contenedor de Ropa,,,,"CALLE DEL PUERTO DE PAJARES, 1",,,,,,,,,,,Puente de Vallecas,,,40.39548635,-3.66412409,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,781
+Contenedor de ropa,,,,"CALLE DEL ARROYO DEL OLIVAR, 116",,,,,,,,,,,Puente de Vallecas,,,40.38946037,-3.65615035,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,782
+Contenedor de ropa,,,,"AVENIDA DE BUENOS AIRES, 52",,,,,,,,,,,Puente de Vallecas,,,40.38641038,-3.6533603,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,783
+Contenedor de ropa,,,,"AVENIDA DE PABLO NERUDA, 89",frente,,,,,,,,,,Puente de Vallecas,,,40.38125018,-3.66029998,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,784
+Contenedor de ropa,,,,"AVENIDA DE PABLO NERUDA, 132",,,,,,,,,,,Puente de Vallecas,,,40.38168994,-3.65679947,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,785
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE VELATE, 8",,,,,,,,,,,Puente de Vallecas,,,40.3846298,-3.65644984,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,786
+Contenedor de ropa,,,,"CALLE DEL PUERTO DE COSTABONA, 2",,,,,,,,,,,Puente de Vallecas,,,40.38647957,-3.65878997,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,787
+Contenedor de ropa,,,,"CALLE DE LA VENTA DE LA HIGUERA, 5",,,,,,,,,,,Puente de Vallecas,,,40.38019619,-3.66373504,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,788
+Contenedor de ropa,,,,"CALLE DE MOGAMBO, 4",esquina calle Violetera,,,,,,,,,,Puente de Vallecas,,,40.37957064,-3.65700578,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,789
+Contenedor de ropa,,,,"CALLE DE CANDILEJAS, 74",,,,,,,,,,,Puente de Vallecas,,,40.38149394,-3.66485975,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,790
+Contenedor de Ropa,,,,"CALLE DE CARLOS MARTIN ALVAREZ, 25",,,,,,,,,,,Puente de Vallecas,,,40.38937489,-3.6635737,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,791
+Contenedor de Ropa,,,,"AVENIDA DE LAS PALOMERAS, 2",,,,,,,,,,,Puente de Vallecas,,,40.38897255,-3.65901372,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,792
+Contenedor de Ropa,,,,"CALLE DE FANTASIA, 2",,,,,,,,,,,Puente de Vallecas,,,40.37796421,-3.65655366,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,793
+Contenedor de Ropa,,,,"CALLE DE CANDILEJAS, 3",,,,,,,,,,,Puente de Vallecas,,,40.38483413,-3.66152966,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,794
+Contenedor de ropa,,,,"AVENIDA DE BUENOS AIRES, 95",,,,,,,,,,,Puente de Vallecas,,,40.38025999,-3.65237963,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,795
+Contenedor de ropa,,,,"AVENIDA DE MIGUEL HERNANDEZ, 118",,,,,,,,,,,Puente de Vallecas,,,40.37938761,-3.65060922,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,796
+Contenedor de ropa,,,,"AVENIDA DE RAFAEL ALBERTI, 35",,,,,,,,,,,Puente de Vallecas,,,40.38541975,-3.64170941,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,797
+Contenedor de ropa,,,,"AVENIDA DE LA ALBUFERA, 279",,,,,,,,,,,Puente de Vallecas,,,40.38851993,-3.64151969,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,798
+Contenedor de ropa,,,,"AVENIDA DE RAFAEL ALBERTI, 3",,,,,,,,,,,Puente de Vallecas,,,40.3922103,-3.63674973,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,799
+Contenedor de Ropa,,,,"CALLE DE LOS ARAGONESES, 6",,Mercadillo Aragoneses,,,,,,,,,Puente de Vallecas,,,40.38183269,-3.6440133,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,800
+Contenedor de ropa,,,,"CALLE DE VILLALOBOS, 22",,,,,,,,,,,Puente de Vallecas,,,40.38162121,-3.64954018,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,801
+Contenedor de Ropa,,,,"CALLE DE GERARDO DIEGO, 6",,,,,,,,,,,Puente de Vallecas,,,40.38537738,-3.64384335,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,802
+Contenedor de Ropa,,,,"CALLE DE LOS ASTURIANOS, 1",,,,,,,,,,,Puente de Vallecas,,,40.38339992,-3.64246555,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,803
+Contenedor de Ropa,,,,"CALLE DE LEON FELIPE, 20",,,,,,,,,,,Puente de Vallecas,,,40.38750338,-3.63615796,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,804
+Contenedor de Ropa,,,,"CALLE DE LOS ANDALUCES, 32",,,,,,,,,,,Puente de Vallecas,,,40.38961953,-3.6365439,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,805
+Contenedor de ropa,,,,"CALLE DE BENJAMIN PALENCIA, 22",,,,,,,,,,,Puente de Vallecas,,,40.394496,-3.64815014,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,806
+Contenedor de Ropa,,,,"AVENIDA DE BUENOS AIRES, 75",,,,,,,,,,,Puente de Vallecas,,,40.38332676,-3.65286159,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,807
+Contenedor de Ropa,,,,"AVENIDA DE PABLO NERUDA, 78",,,,,,,,,,,Puente de Vallecas,,,40.38566959,-3.64675392,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,808
+Contenedor de Ropa,,,,"CALLE DE GUILLERMO PINGARRON, 3",,,,,,,,,,,Puente de Vallecas,,,40.38758702,-3.64840501,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,809
+Contenedor de Ropa,,,,"CALLE DE MALGRAT DE MAR, 15",frente,,,,,,,,,,Puente de Vallecas,,,40.39327566,-3.64196585,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,810
+Contenedor de Ropa,,,,"CALLE DE CARLOS SOLE, 36",,,,,,,,,,,Puente de Vallecas,,,40.39243105,-3.65168264,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,811
+Contenedor de Ropa,,,,"CALLE DEL ARROYO DEL OLIVAR, 77",,,,,,,,,,,Puente de Vallecas,,,40.38822252,-3.65151529,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,812
+Contenedor de ropa,,,,"CALLE DE PIO FELIPE, 28",,,,,,,,,,,Puente de Vallecas,,,40.39280035,-3.65403005,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,813
+Contenedor de ropa,,,,"CALLE DE JOSE PAULETE, 43",,Punto Limpio Fijo,,,,,,,,,Puente de Vallecas,,,40.39438164,-3.65433507,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,814
+Contenedor de ropa,,,,"CALLE DE RAMON PEREZ DE AYALA, 3",,,,,,,,,,,Puente de Vallecas,,,40.39723044,-3.65461025,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,815
+Contenedor de ropa,,,,"CALLE DEL ALTO DEL LEON, 12",,,,,,,,,,,Puente de Vallecas,,,40.39941101,-3.65857498,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,816
+Contenedor de ropa,,,,"CALLE DE LA SIERRA TOLEDANA, 29",,,,,,,,,,,Puente de Vallecas,,,40.40196968,-3.66039044,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,817
+Contenedor de ropa,,,,"CALLE DE LOS PICOS DE EUROPA, 11",,,,,,,,,,,Puente de Vallecas,,,40.39579605,-3.66173505,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,818
+Contenedor de ropa,,,,"AVENIDA DE LA PEÑA PRIETA, 13",,,,,,,,,,,Puente de Vallecas,,,40.40003832,-3.66699581,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,819
+Contenedor de Ropa,,,,"PLAZA DEL DOCTOR LOZANO, 17",frente,Mercado Doña Carlota,,,,,,,,,Puente de Vallecas,,,40.40326728,-3.66078153,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,820
+Contenedor de ropa,,,,"CALLE DE RAMON PEREZ DE AYALA, 100",,,,,,,,,,,Puente de Vallecas,,,40.39907187,-3.65114663,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,821
+Contenedor de Ropa,,,,"CALLE DE LAS MARISMAS, 63",,,,,,,,,,,Puente de Vallecas,,,40.40177006,-3.65361696,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,822
+Contenedor de ropa,,,,"CALLE DE LOPEZ GRASS, 24",frente,,,,,,,,,,Puente de Vallecas,,,40.39691753,-3.66015366,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,823
+Contenedor de Ropa,,,,"CALLE DEL PICO DE MULHACEN, 12",frente farola 11,,,,,,,,,,Puente de Vallecas,,,40.40086389,-3.66410083,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,824
+Contenedor de ropa,,,,"PLAZA DE MARIANA PINEDA, 7",,,,,,,,,,,Puente de Vallecas,,,40.39271338,-3.65557698,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,825
+Contenedor de ropa,,,,"CALLE DE LA ENCOMIENDA DE PALACIOS, 231",,Parroquia Santa María del Camino,,,,,,,,,Moratalaz,,,40.39816101,-3.63553338,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,826
+Contenedor de ropa,,,,"CALLE DE LA FUENTE CARRANTONA, 5",,Junta Municipal Distrito,,,,,,,,,Moratalaz,,,40.39927202,-3.63718544,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,827
+Contenedor de ropa,,,,"CALLE DE LA FUENTE CARRANTONA, 7",,,,,,,,,,,Moratalaz,,,40.399965,-3.63677647,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,828
+Contenedor de ropa,,,,"CALLE DE LA HACIENDA DE PAVONES, 231",,Farmacia Ortopedia Fuente Carrantona,,,,,,,,,Moratalaz,,,40.40061518,-3.63454879,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,829
+Contenedor de ropa,,,,"CALLE DE VALDEBERNARDO, 27",,Residencia San Francisco de Paula,,,,,,,,,Moratalaz,,,40.40136254,-3.63192249,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,830
+Contenedor de ropa,,,,"CALLE DE LUIS DE HOYOS SAINZ, 170",,Colegio Gredos San Diego,,,,,,,,,Moratalaz,,,40.40366073,-3.62830875,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,831
+Contenedor de Ropa,,,,"CALLE DEL ARROYO FONTARRON, 425",,,,,,,,,,,Moratalaz,,,40.3949309,-3.63467587,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,832
+Contenedor de ropa,,,,"CALLE DE LA RIVIERA, 4",,Instalación Deportiva Municipal Lili Alvarez,,,,,,,,,Moratalaz,,,40.40611691,-3.62918071,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,833
+Contenedor de ropa,,,,"CALLE DEL CAMINO DE LOS VINATEROS, 104",,Colegio Público Manuel Sainz de Vicuña,,,,,,,,,Moratalaz,,,40.40941016,-3.64994973,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,834
+Contenedor de ropa,,,,"CALLE DE LA MARROQUINA, 39",,,,,,,,,,,Moratalaz,,,40.40842124,-3.64906621,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,835
+Contenedor de ropa,,,,"CALLE DE LA MARROQUINA, 41",,Parroquia Natividad de Nuestra Señora,,,,,,,,,Moratalaz,,,40.4077304,-3.64906947,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,836
+Contenedor de ropa,,,,"CALLE DE LA MARROQUINA, 42",,,,,,,,,,,Moratalaz,,,40.40799724,-3.64757705,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,837
+Contenedor de ropa,,,,"AVENIDA DE MORATALAZ, 185",frente,,,,,,,,,,Moratalaz,,,40.4089905,-3.64355895,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,838
+Contenedor de ropa,,,,"CALLE DE ANTONIO CUMELLA, 23",,,,,,,,,,,Moratalaz,,,40.41036805,-3.63649949,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,839
+Contenedor de ropa,,,,"CALLE DE MERIDA, 1",,,,,,,,,,,Moratalaz,,,40.40814323,-3.63670151,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,840
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR JOSE DE PASAMONTE, 15",,,,,,,,,,,Moratalaz,,,40.41031681,-3.64842842,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,841
+Contenedor de ropa,,,,"CALLE DE JOSE BERGAMIN, 9",,,,,,,,,,,Moratalaz,,,40.41075536,-3.62967012,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,842
+Contenedor de Ropa,,,,"CALLE DE LA FUENTE CARRANTONA, 29",,,,,,,,,,,Moratalaz,,,40.40623512,-3.63249337,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,843
+Contenedor de Ropa,,,,"CALLE DEL CAMINO DE LOS VINATEROS, 102",,,,,,,,,,,Moratalaz,,,40.40965952,-3.65027094,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,844
+Contenedor de Ropa,,,,"AVENIDA DEL DOCTOR GARCIA TAPIA, 123",,,,,,,,,,,Moratalaz,,,40.41007648,-3.64113707,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,845
+Contenedor de Ropa,,,,"AVENIDA DEL DOCTOR GARCIA TAPIA, 118",,,,,,,,,,,Moratalaz,,,40.41210384,-3.64813031,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,846
+Contenedor de Ropa,,,,"CALLE DE MARIO CABRE, 23",,,,,,,,,,,Moratalaz,,,40.40678822,-3.63478492,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,847
+Contenedor de ropa,,,,"CALLE DEL ARROYO BELINCOSO, 11",,"Biblioteca Publica Municipal ""Miguel Delives""",,,,,,,,,Moratalaz,,,40.4098007,-3.65294047,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,848
+Contenedor de ropa,,,,"CALLE   ENTRE ARROYOS, 19",,,,,,,,,,,Moratalaz,,,40.40863076,-3.65448899,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,849
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR RODRIGO RODRIGUEZ, 31",,Parroquia Nuestra Señora de Moratalaz,,,,,,,,,Moratalaz,,,40.40836526,-3.65812366,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,850
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR DIEGO DE VALDERRABANO, 15",,,,,,,,,,,Moratalaz,,,40.40937096,-3.65989662,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,851
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR DIEGO DE VALDERRABANO, 66",,,,,,,,,,,Moratalaz,,,40.41196233,-3.65797843,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,852
+Contenedor de ropa,,,,"CALLE DE ALFREDO BRAÑAS, 6",,,,,,,,,,,Moratalaz,,,40.41152333,-3.65731066,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,853
+Contenedor de ropa,,,,"CALLE DEL ALCALDE GARRIDO JUARISTI, 16",,Centro Deportivo Municipal La Elipa,,,,,,,,,Moratalaz,,,40.41387985,-3.65421053,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,854
+Contenedor de ropa,,,,"CALLE DE CARMEN AMAYA, 13",,Punto Limpio Fijo,,,,,,,,,Moratalaz,,,40.41208735,-3.65469844,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,855
+Contenedor de ropa,,,,"AVENIDA DE MORATALAZ, 29",,,,,,,,,,,Moratalaz,,,40.40808821,-3.6591397,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,856
+Contenedor de Ropa,,,,"CALLE DEL CAMINO DE LOS VINATEROS, 12",,,,,,,,,,,Moratalaz,,,40.41061984,-3.66045142,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,857
+Contenedor de Ropa,,,,"AVENIDA DE MORATALAZ, 95",,,,,,,,,,,Moratalaz,,,40.40614541,-3.65466258,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,858
+Contenedor de Ropa,,,,"AVENIDA DE MORATALAZ, 13",,,,,,,,,,,Moratalaz,,,40.40819683,-3.66165136,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,859
+Contenedor de Ropa,,,,"CALLE DEL ALCALDE GARRIDO JUARISTI, 15",,,,,,,,,,,Moratalaz,,,40.4143665,-3.6564797,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,860
+Contenedor de Ropa,,,,"CALLE DEL ARROYO DE LA MEDIA LEGUA, 46",,,,,,,,,,,Moratalaz,,,40.40932869,-3.65691657,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,861
+Contenedor de Ropa,,,,"CALLE   ENTRE ARROYOS, 106",,,,,,,,,,,Moratalaz,,,40.40754205,-3.65352689,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,862
+Contenedor de ropa,,,,"CALLE DE LA TACONA, 101",,,,,,,,,,,Moratalaz,,,40.39869099,-3.64019262,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,863
+Contenedor de ropa,,,,"CALLE DE LA ENCOMIENDA DE PALACIOS, 158",,"Centro Alzehimer ""Nicanor Barroso""",,,,,,,,,Moratalaz,,,40.39971206,-3.64190272,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,864
+Contenedor de ropa,,,,"CALLE DE LA ENCOMIENDA DE PALACIOS, 73",,,,,,,,,,,Moratalaz,,,40.40070003,-3.64207579,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,865
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR JUAN FRANCISCO DE LUJAN, 110",,CPK La Bankarrota,,,,,,,,,Moratalaz,,,40.40137511,-3.64608097,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,866
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR JUAN FRANCISCO DE LUJAN, 77",,,,,,,,,,,Moratalaz,,,40.40245606,-3.64623496,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,867
+Contenedor de ropa,,,,"CALLE DEL CORREGIDOR ALONSO DE TOBAR, 15",,,,,,,,,,,Moratalaz,,,40.40396515,-3.64850711,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,868
+Contenedor de ropa,,,,"CALLE DE LA HACIENDA DE PAVONES, 204",,,,,,,,,,,Moratalaz,,,40.40234612,-3.63972758,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,869
+Contenedor de Ropa,,,,"CALLE DEL PICO DE LOS ARTILLEROS, 160",,,,,,,,,,,Moratalaz,,,40.40220262,-3.64323383,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,870
+Contenedor de Ropa,,,,"CALLE DEL ARROYO FONTARRON, 99",,,,,,,,,,,Moratalaz,,,40.40043482,-3.64723476,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,871
+Contenedor de Ropa,,,,"CALLE DE LA HACIENDA DE PAVONES, 36",,,,,,,,,,,Moratalaz,,,40.40375122,-3.64735887,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,872
+Contenedor de Ropa,,,,"CALLE DEL ARROYO FONTARRON, 179",,,,,,,,,,,Moratalaz,,,40.39774898,-3.64477319,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,873
+Contenedor de ropa,,,,"AVENIDA DE MORATALAZ, 64",,Hacienda de Pavones,,,,,,,,,Moratalaz,,,40.40584921,-3.65068929,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,874
+Contenedor de ropa,,,,"AVENIDA DE MORATALAZ, 130",,"Centro Cultural ""El Torito""",,,,,,,,,Moratalaz,,,40.40608987,-3.64647713,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,875
+Contenedor de ropa,,,,"CALLE DE LUIS DE HOYOS SAINZ, 84",,Colegio Público Pio Baroja,,,,,,,,,Moratalaz,,,40.40382925,-3.63705871,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,876
+Contenedor de ropa,,,,"CALLE DEL PICO DE LOS ARTILLEROS, 82",,Parroquia Visitación de Nuestra Señora,,,,,,,,,Moratalaz,,,40.40732793,-3.64002719,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,877
+Contenedor de ropa,,,,"CALLE DEL CAMINO DE LOS VINATEROS, 164",,,,,,,,,,,Moratalaz,,,40.40608417,-3.64444791,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,878
+Contenedor de ropa,,,,"CALLE DEL PICO DE LOS ARTILLEROS, 134",,,,,,,,,,,Moratalaz,,,40.40435719,-3.64306275,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,879
+Contenedor de Ropa,,,,"CALLE DEL PICO DE LOS ARTILLEROS, 104",,,,,,,,,,,Moratalaz,,,40.40552772,-3.64047997,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,880
+Contenedor de Ropa,,,,"AVENIDA DE MORATALAZ, 143",,,,,,,,,,,Moratalaz,,,40.40695196,-3.64792318,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,881
+Contenedor de ropa,,,,"CALLE DE CYESA, 11",frente,,,,,,,,,,Ciudad Lineal,,,40.43024085,-3.65833168,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,882
+Contenedor de ropa,,,,"CALLE DE RICARDO ORTIZ, 52",,,,,,,,,,,Ciudad Lineal,,,40.42554318,-3.65802983,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,883
+Contenedor de ropa,,,,"CALLE DE SAN MAXIMILIANO, 17",,,,,,,,,,,Ciudad Lineal,,,40.42413814,-3.65480808,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,884
+Contenedor de ropa,,,,"AVENIDA DEL MARQUES DE CORBERA, 51",,C.C La Elipa,,,,,,,,,Ciudad Lineal,,,40.42602595,-3.65149646,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,885
+Contenedor de ropa,,,,"CALLE DE MARIA TERESA SAENZ DE HEREDIA, 17",,,,,,,,,,,Ciudad Lineal,,,40.42262641,-3.65391816,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,886
+Contenedor de ropa,,,,"CALLE DE SANTA GENOVEVA, 30",,Colegio Público Gustavo Adolfo Becquer,,,,,,,,,Ciudad Lineal,,,40.4243154,-3.64903141,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,887
+Contenedor de ropa,,,,"CALLE DEL POETA BLAS DE OTERO, 91",,Centro Sociocultural Ciudad Lineal,,,,,,,,,Ciudad Lineal,,,40.42386422,-3.65111221,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,888
+Contenedor de ropa,,,,"CALLE DE SANTA FELICIDAD, 22",,"Centro Cultural ""La Elipa""",,,,,,,,,Ciudad Lineal,,,40.42527194,-3.65057747,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,889
+Contenedor de ropa,,,,"CALLE DE SAN CLODOALDO, 17",,,,,,,,,,,Ciudad Lineal,,,40.42772721,-3.6502339,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,890
+Contenedor de ropa,,,,"CALLE DE LOS HERMANOS GOMEZ, 17",,,,,,,,,,,Ciudad Lineal,,,40.43173323,-3.64988708,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,891
+Contenedor de ropa,,,,"CALLE DEL APOSTOL SANTIAGO, 74",,"Colegio ""Nuestra Señora de las Victorias""",,,,,,,,,Ciudad Lineal,,,40.42918475,-3.6546783,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,892
+Contenedor de ropa,,,,"CALLE DE FRANCISCO HUESCA, 10",,Polideportivo Las Cocheras,,,,,,,,,Ciudad Lineal,,,40.42541159,-3.65410333,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,893
+Contenedor de ropa,,,,"CALLE DE SANTA PRISCA, 14",,,,,,,,,,,Ciudad Lineal,,,40.42692583,-3.64834517,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,894
+Contenedor de Ropa,,,,"CALLE DE SOR MARIA DE AGREDA, 2",,,,,,,,,,,Ciudad Lineal,,,40.42976001,-3.65089017,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,895
+Contenedor de Ropa,,,,"CALLE DE JOSE VILLENA, 1",,,,,,,,,,,Ciudad Lineal,,,40.43187699,-3.65581455,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,896
+Contenedor de ropa,,,,"CALLE DE VITAL AZA, 15",,Iglesia Asamblea Dios Belén,,,,,,,,,Ciudad Lineal,,,40.43108425,-3.64468486,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,897
+Contenedor de ropa,,,,"CALLE DE JOSE ARCONES GIL, 25",,Parroquia San Jenaro,,,,,,,,,Ciudad Lineal,,,40.4344813,-3.63772932,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,898
+Contenedor de ropa,,,,"CALLE DE VAZQUEZ DE MELLA, 22",,,,,,,,,,,Ciudad Lineal,,,40.43396899,-3.63917618,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,899
+Contenedor de ropa,,,,"CALLE DE VICENTE ESPINEL, 37",,,,,,,,,,,Ciudad Lineal,,,40.43302699,-3.6411463,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,900
+Contenedor de ropa,,,,"CALLE DE GUTIERRE DE CETINA, 57",,,,,,,,,,,Ciudad Lineal,,,40.43161833,-3.64217029,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,901
+Contenedor de ropa,,,,"CALLE DE JOSE ARCONES GIL, 54",,,,,,,,,,,Ciudad Lineal,,,40.43253666,-3.63708433,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,902
+Contenedor de ropa,,,,"CALLE DE ESTEBAN COLLANTES, 40",esquina calle Luis Ruiz,,,,,,,,,,Ciudad Lineal,,,40.43214897,-3.63894957,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,903
+Contenedor de ropa,,,,"CALLE DE GUTIERRE DE CETINA, 71",,"Centro de Mayores ""Ascao""",,,,,,,,,Ciudad Lineal,,,40.43064635,-3.64132659,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,904
+Contenedor de ropa,,,,"CALLE DE GONZALO DE BERCEO, 63",,,,,,,,,,,Ciudad Lineal,,,40.42862587,-3.63975266,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,905
+Contenedor de ropa,,,,"CALLE DE EZEQUIEL SOLANA, 99",,,,,,,,,,,Ciudad Lineal,,,40.42717837,-3.64214482,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,906
+Contenedor de ropa,,,,"CALLE DE EZEQUIEL SOLANA, 107",esquina calle Santurce,,,,,,,,,,Ciudad Lineal,,,40.42655282,-3.64139168,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,907
+Contenedor de ropa,,,,"CALLE DE EMILIO FERRARI, 160",,,,,,,,,,,Ciudad Lineal,,,40.42578368,-3.63730942,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,908
+Contenedor de ropa,,,,"CALLE DE SAN TELESFORO, 23",,,,,,,,,,,Ciudad Lineal,,,40.42594344,-3.6343382,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,909
+Contenedor de ropa,,,,"CALLE DE FERNANDO GABRIEL, 21",,Mercadillo en la vía pública de la calle Gandhi ,,,,,,,,,Ciudad Lineal,,,40.42542479,-3.63738549,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,910
+Contenedor de ropa,,,,"CALLE DE BARLOVENTO, 6",,,,,,,,,,,Ciudad Lineal,,,40.42641182,-3.63142514,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,911
+Contenedor de ropa,,,,"CALLE DE PAREDES DE NAVA, 9",,,,,,,,,,,Ciudad Lineal,,,40.42029423,-3.62618953,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,912
+Contenedor de ropa,,,,"CALLE DE VILLASILOS, 9",,,,,,,,,,,Ciudad Lineal,,,40.42138193,-3.62858959,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,913
+Contenedor de ropa,,,,"CALLE DE VILLAESCUSA, 17",,IES Barrio de Bilbao,,,,,,,,,Ciudad Lineal,,,40.42234217,-3.63180273,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,914
+Contenedor de ropa,,,,"CALLE DE NICOLAS SALMERON, 4",Gasolinera BP,Punto Limpio Fijo,,,,,,,,,Ciudad Lineal,,,40.41943468,-3.63144077,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,915
+Contenedor de ropa,,,,"CALLE DE FRANCISCO RIOJA, 14",,Centro Deportivo Municipal Pueblo Nuevo,,,,,,,,,Ciudad Lineal,,,40.42982997,-3.63831033,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,916
+Contenedor de ropa,,,,"CALLE DE LUIS RUIZ, 46",,,,,,,,,,,Ciudad Lineal,,,40.42951581,-3.63731984,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,917
+Contenedor de ropa,,,,"CALLE DE LUIS RUIZ, 25",,,,,,,,,,,Ciudad Lineal,,,40.4310411,-3.63845987,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,918
+Contenedor de Ropa,,,,"CALLE DEL PELOPONESO, 9",,,,,,,,,,,Ciudad Lineal,,,40.41520933,-3.62450359,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,919
+Contenedor de Ropa,,,,"CALLE DE NICOLAS SALMERON, 22",,,,,,,,,,,Ciudad Lineal,,,40.41771232,-3.62657765,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,920
+Contenedor de ropa,,,,"CALLE DEL BEATO BERRIO OCHOA, 2",,,,,,,,,,,Ciudad Lineal,,,40.43479106,-3.65163434,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,921
+Contenedor de ropa,,,,"CALLE DE GERMAN PEREZ CARRASCO, 3",,,,,,,,,,,Ciudad Lineal,,,40.43461129,-3.64761714,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,922
+Contenedor de ropa,,,,"CALLE DEL CONCEJAL JULIO GOMEZ, 2",,,,,,,,,,,Ciudad Lineal,,,40.43313087,-3.65025989,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,923
+Contenedor de ropa,,,,"CALLE DE ALCALA, 353",,,,,,,,,,,Ciudad Lineal,,,40.43427212,-3.64606845,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,924
+Contenedor de ropa,,,,"CALLE DE LOS MISTERIOS, 1",esquina calle Alfonso Paso,,,,,,,,,,Ciudad Lineal,,,40.43814314,-3.63915959,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,925
+Contenedor de Ropa,,,,"CALLE DE SAMBARA, 132",,,,,,,,,,,Ciudad Lineal,,,40.43772052,-3.64263139,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,926
+Contenedor de Ropa,,,,"CALLE DE ALCALA, 391",,,,,,,,,,,Ciudad Lineal,,,40.43635395,-3.64173422,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,927
+Contenedor de ropa,,,,"CALLE DE LOS HERMANOS DE PABLO, 48",,Centro Deportivo Municipal La Concepcion,,,,,,,,,Ciudad Lineal,,,40.43867581,-3.64687677,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,928
+Contenedor de ropa,,,,"CALLE DE LOS MISTERIOS, 77",,,,,,,,,,,Ciudad Lineal,,,40.44125397,-3.64320221,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,929
+Contenedor de ropa,,,,"CALLE DEL ESTRECHO DE COREA, 34",,"Centro de Salud ""Estrecho de Corea""",,,,,,,,,Ciudad Lineal,,,40.44101058,-3.64784197,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,930
+Contenedor de ropa,,,,"CALLE DE GOITIA, 1",,,,,,,,,,,Ciudad Lineal,,,40.44369125,-3.6416167,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,931
+Contenedor de ropa,,,,"CALLE DE LA VIRGEN DEL CASTAÑAR, 14",,,,,,,,,,,Ciudad Lineal,,,40.43836643,-3.65065038,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,932
+Contenedor de ropa,,,,"CALLE DE LA VIRGEN DEL CASTAÑAR, 8",,,,,,,,,,,Ciudad Lineal,,,40.43748637,-3.65251412,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,933
+Contenedor de ropa,,,,"PASAJE DE LA VIRGEN DE LA ALEGRIA, 3",,Parroquia Virgen del Coro,,,,,,,,,Ciudad Lineal,,,40.43395897,-3.65750904,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,934
+Contenedor de ropa,,,,"TRAVESIA DE LA VIRGEN DE LA ROCA, 13",,,,,,,,,,,Ciudad Lineal,,,40.43558106,-3.65672864,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,935
+Contenedor de Ropa,,,,"CALLE DEL GENERAL ARANAZ, 71",,,,,,,,,,,Ciudad Lineal,,,40.44590831,-3.64286097,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,936
+Contenedor de ropa,,,,"CALLE DE AGASTIA, 22",,Parroquia San Ireneo,,,,,,,,,Ciudad Lineal,,,40.44453414,-3.64907126,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,937
+Contenedor de ropa,,,,"CALLE DE PILAR CAVERO, 3",esquina calle Pilar Cavero 1,,,,,,,,,,Ciudad Lineal,,,40.44629836,-3.64704901,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,938
+Contenedor de ropa,,,,"CALLE DE LA VIRGEN DEL VAL, 3",,,,,,,,,,,Ciudad Lineal,,,40.4372579,-3.65455545,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,939
+Contenedor de ropa,,,,"CALLE DE ANTONIO CANTALEJO, 3",,,,,,,,,,,Ciudad Lineal,,,40.43664808,-3.65692154,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,940
+Contenedor de ropa,,,,"CALLE DE LA VIRGEN DE AFRICA, 38",esquina calle Electronica,,,,,,,,,,Ciudad Lineal,,,40.44044623,-3.65506349,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,941
+Contenedor de ropa,,,,"AVENIDA DE BADAJOZ, 11",,,,,,,,,,,Ciudad Lineal,,,40.44287371,-3.6530354,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,942
+Contenedor de ropa,,,,"AVENIDA DE BADAJOZ, 64",,,,,,,,,,,Ciudad Lineal,,,40.44271125,-3.65308736,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,943
+Contenedor de ropa,,,,"CALLE DE LA CONDESA DE VENADITO, 22",,,,,,,,,,,Ciudad Lineal,,,40.4439993,-3.65298733,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,944
+Contenedor de ropa,,,,"CALLE DE HERNANDEZ DE TEJADA, 1",,,,,,,,,,,Ciudad Lineal,,,40.44687441,-3.65196931,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,945
+Contenedor de ropa,,,,"AVENIDA DE BADAJOZ, 24",,Parroquia del Espíritu Santo,,,,,,,,,Ciudad Lineal,,,40.44147927,-3.65511625,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,946
+Contenedor de ropa,,,,"CALLE DE TORRELAGUNA, 2",,,,,,,,,,,Ciudad Lineal,,,40.44072364,-3.64998538,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,947
+Contenedor de ropa,,,,"CALLE DE RAFAEL BERGAMIN, 5",,,,,,,,,,,Ciudad Lineal,,,40.45140985,-3.66078444,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,948
+Contenedor de ropa,,,,"CALLE DE ALBELDA, 1",,,,,,,,,,,Ciudad Lineal,,,40.44976155,-3.65761161,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,949
+Contenedor de ropa,,,,"PLAZA DE ANGUIANO, 6",,,,,,,,,,,Ciudad Lineal,,,40.45192467,-3.65674586,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,950
+Contenedor de ropa,,,,"CALLE DE LA TORRECILLA DEL PUERTO, 6",,,,,,,,,,,Ciudad Lineal,,,40.4508475,-3.65054125,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,951
+Contenedor de Ropa,,,,"CALLE DE LUIS CARLOS VAZQUEZ, 1",,,,,,,,,,,Ciudad Lineal,,,40.45505536,-3.65517818,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,952
+Contenedor de ropa,,,,"CALLE DE MATIAS TURRION, 9",,,,,,,,,,,Ciudad Lineal,,,40.45952028,-3.65867202,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,953
+Contenedor de ropa,,,,"CALLE DE LOPEZ DE HOYOS, 342",,,,,,,,,,,Ciudad Lineal,,,40.4572793,-3.66060943,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,954
+Contenedor de ropa,,,,"CALLE DE ARTURO SORIA, 177",,,,,,,,,,,Ciudad Lineal,,,40.45775117,-3.6581049,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,955
+Contenedor de Ropa,,,,"CALLE DE NAVARRO AMANDI, 11",,,,,,,,,,,Ciudad Lineal,,,40.46106227,-3.6598298,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,956
+Contenedor de Ropa,,,,"CALLE DE ARTURO SORIA, 214",,,,,,,,,,,Ciudad Lineal,,,40.46115764,-3.66274432,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,957
+Contenedor de Ropa,,,,"CALLE DE AGASTIA, 120",,,,,,,,,,,Ciudad Lineal,,,40.45492655,-3.65882116,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,958
+Contenedor de ropa,,,,"CALLE DE ARTURO SORIA, 236",esquina calle Bueso de Pineda,Colegio Público Joaquiín Turina,,,,,,,,,Ciudad Lineal,,,40.46431743,-3.66511428,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,959
+Contenedor de ropa,,,,"CALLE DE PIQUER, 2",,Colegio Público San Benito,,,,,,,,,Ciudad Lineal,,,40.46508545,-3.66454836,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,960
+Contenedor de Ropa,,,,"CALLE DE JULIA BALENCHANA, 9",,,,,,,,,,,Ciudad Lineal,,,40.46363732,-3.66241064,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,961
+Contenedor de ropa,,,,"CALLE DE CALERUEGA, 73",,,,,,,,,,,Ciudad Lineal,,,40.48336967,-3.66932917,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,962
+Contenedor de ropa,,,,"CALLE DE CALERUEGA, 52",,,,,,,,,,,Ciudad Lineal,,,40.48105982,-3.67143404,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,963
+Contenedor de ropa,,,,"CALLE DE CALERUEGA, 18",,,,,,,,,,,Ciudad Lineal,,,40.47934516,-3.67070153,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,964
+Contenedor de ropa,,,,"CALLE DE ELADIO LOPEZ VILCHES, 16",,,,,,,,,,,Ciudad Lineal,,,40.47376988,-3.66591843,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,965
+Contenedor de ropa,,,,"CALLE DEL JAZMIN, 18",,,,,,,,,,,Hortaleza,,,40.47742723,-3.66760728,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,966
+Contenedor de ropa,,,,"CALLE DE ARTURO SORIA, 333",,,,,,,,,,,Hortaleza,,,40.48099738,-3.66651722,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,967
+Contenedor de Ropa,,,,"CALLE DE AÑASTRO, 2",,,,,,,,,,,Ciudad Lineal,,,40.46728633,-3.66537525,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,968
+Contenedor de Ropa,,,,"CALLE DE ARTURO SORIA, 353",,,,,,,,,,,Ciudad Lineal,,,40.4826867,-3.66481793,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,969
+Contenedor de ropa,,,,"CALLE DE LAS CAMELIAS, 7",,,,,,,,,,,Hortaleza,,,40.45243652,-3.61870451,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,970
+Contenedor de ropa,,,,"AVENIDA DE LOS PRUNOS, 15",,,,,,,,,,,Hortaleza,,,40.45419658,-3.61916456,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,971
+Contenedor de ropa,,,,"CALLE DEL BOJ, 5",,,,,,,,,,,Hortaleza,,,40.45563984,-3.61796099,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,972
+Contenedor de Ropa,,,,"CALLE DE LA ESPUELA, 5",,,,,,,,,,,Hortaleza,,,40.45253337,-3.62501659,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,973
+Contenedor de Ropa,,,,"CALLE DE LA ARMONIA, 27",,,,,,,,,,,Hortaleza,,,40.45345018,-3.61177341,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,974
+Contenedor de ropa,,,,"CALLE DE JULIAN HERNANDEZ, 21",,,,,,,,,,,Hortaleza,,,40.45498197,-3.65153775,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,975
+Contenedor de ropa,,,,"CALLE DE SILVANO, 150",,,,,,,,,,,Hortaleza,,,40.46249362,-3.62905319,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,976
+Contenedor de ropa,,,,"CALLE DE DIONISIO INCA YUPANQUI, 2",,,,,,,,,,,Hortaleza,,,40.46130683,-3.63310533,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,977
+Contenedor de ropa,,,,"AVENIDA DE MACHUPICHU, 35",,,,,,,,,,,Hortaleza,,,40.45938364,-3.62721093,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,978
+Contenedor de Ropa,,,,"PLAZA DEL LICEO, 3",,,,,,,,,,,Hortaleza,,,40.45704959,-3.64409264,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,979
+Contenedor de Ropa,,,,"AVENIDA DE CARONDELET, 25",,,,,,,,,,,Hortaleza,,,40.45031996,-3.64228343,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,980
+Contenedor de ropa,,,,"CALLE DE MOTA DEL CUERVO, 27",,,,,,,,,,,Hortaleza,,,40.46531455,-3.62992834,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,981
+Contenedor de ropa,,,,"CALLE DE EL PROVENCIO, 22",,"Centro Deportivo ""Luis Aragones""",,,,,,,,,Hortaleza,,,40.46531446,-3.62850309,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,982
+Contenedor de ropa,,,,"CALLE DE TRIBALDOS, 2",,,,,,,,,,,Hortaleza,,,40.46721455,-3.63153807,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,983
+Contenedor de ropa,,,,"CALLE DE SILVANO, 100",,,,,,,,,,,Hortaleza,,,40.46279792,-3.63664069,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,984
+Contenedor de ropa,,,,"CALLE DE LOS EMIGRANTES, 15",,,,,,,,,,,Hortaleza,,,40.46839695,-3.63799553,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,985
+Contenedor de ropa,,,,"CALLE DEL TIBERIADES, 3",,,,,,,,,,,Hortaleza,,,40.46615695,-3.6376056,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,986
+Contenedor de ropa,,,,"CALLE DE TORQUEMADA, 7",,,,,,,,,,,Hortaleza,,,40.46675636,-3.64069624,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,987
+Contenedor de ropa,,,,"CARRETERA DE CANILLAS, 47",,,,,,,,,,,Hortaleza,,,40.4636815,-3.64627952,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,988
+Contenedor de ropa,,,,"CALLE DE PEGASO, 1",esquina Ctra Canillas,,,,,,,,,,Hortaleza,,,40.46325837,-3.64922054,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,989
+Contenedor de ropa,,,,"CALLE DE MOSCATELAR, 1",,Farmacia,,,,,,,,,Hortaleza,,,40.45727184,-3.65026453,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,990
+Contenedor de ropa,,,,"CALLE DE PUERTO REAL, 9",,Instalación deportiva básica,,,,,,,,,Hortaleza,,,40.46085023,-3.65391984,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,991
+Contenedor de ropa,,,,"CALLE DE ANDORRA, 16",,,,,,,,,,,Hortaleza,,,40.45991613,-3.64596168,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,992
+Contenedor de ropa,,,,"CALLE DE UTRILLAS, 21",,,,,,,,,,,Hortaleza,,,40.46240402,-3.64250871,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,993
+Contenedor de ropa,,,,"CALLE DE CALANDA, 30",,Mercadillo en la vía pública de la calle Alcorisa - camino Silvano ,,,,,,,,,Hortaleza,,,40.46239187,-3.64122796,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,994
+Contenedor de ropa,,,,"AVENIDA DE LA GRAN VIA DE HORTALEZA, 65",,,,,,,,,,,Hortaleza,,,40.46923543,-3.64403584,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,995
+Contenedor de ropa,,,,"CALLE DE CHAPARRAL, 7",,,,,,,,,,,Hortaleza,,,40.47084035,-3.6362801,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,996
+Contenedor de ropa,,,,"CALLE DE CHIQUINQUIRA, 12",,C.C Colombia,,,,,,,,,Hortaleza,,,40.47171574,-3.63738515,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,997
+Contenedor de ropa,,,,"CALLE DEL IMPALA, 11",,,,,,,,,,,Hortaleza,,,40.47324449,-3.63677494,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,998
+Contenedor de ropa,,,,"CALLE DEL MAR DE CORAL, 6",,Plaza Día,,,,,,,,,Hortaleza,,,40.4753442,-3.64016673,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,999
+Contenedor de ropa,,,,"CALLE DE SANTA VIRGILIA, 13",,Centro Cultural de Hortaleza,,,,,,,,,Hortaleza,,,40.47752728,-3.64204583,,,1716314510365,Esri_Madrid,1716314510365,Esri_Madrid,1000
