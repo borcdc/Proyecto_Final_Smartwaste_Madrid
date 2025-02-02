@@ -57,7 +57,7 @@ selected_page = st.sidebar.radio("Navegación", ["Inicio", "EcoFriend", "Dashboa
 
 if selected_page == "Inicio":
     st.markdown("<h1 style='text-align: center;'>Proyecto Smart Waste</h1>", unsafe_allow_html=True)
-    st.image("madrid-sol.jpg", use_column_width=True)
+    st.image("Smartwaste_Streamlit/madrid-sol.jpg", use_container_width=True)
     st.markdown(
         f"""
         <p style="text-align:center;">
@@ -98,7 +98,7 @@ elif selected_page == "EcoFriend":
 
                     # Asegúrese de que el índice se haya guardado previamente usando Chroma
                     embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-                    vector_store = Chroma(persist_directory="C:/Users/inesc/Bootcamp/Module_3/Smartwaste_Streamlit/vector_store", embedding_function=embeddings)
+                    vector_store = Chroma(persist_directory="/Users/jaquelinedicroce/Desktop/Bootcamp/Proyecto_Final_Smartwaste_Madrid/Smartwaste_Streamlit/vector_store", embedding_function=embeddings)
                     return vector_store
                 except Exception as e:
                     st.error(f"Error al cargar el modelo RAG: {e}")
@@ -131,12 +131,40 @@ elif selected_page == "EcoFriend":
 
 elif selected_page == "Dashboard":
     st.markdown("<h2 style='text-align: center;'>📊 Dashboard del Proyecto</h2>", unsafe_allow_html=True)
-    st.components.v1.html(
-        """
-        <iframe title="SmartWaste_BI" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNDFiNmE5MmItMmZjNi00Zjk1LTg4NTQtYzZlZGM1ZTEyNzk0IiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-        """,
-        height=600,
-    )
+    
+    tab1, tab2, tab3, tab4 = st.tabs(["Resumen General", "Mapa de Distritos", "Residuos por Categoria", "Servicios de Limpieza"])
+    with tab1:
+        st.write('Este es resúmen de la recolección de residuos en Madrid los últimos tres años')
+        st.components.v1.html(
+            """
+            <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+            """,
+            height=600,
+        )
+
+    with tab2:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=46d13c11d01b639264b7" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
+
+    with tab3:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=0e4aae2400ec306d5025" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
+
+    with tab4:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=766999b24eaa1c546637" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
 
 elif selected_page == "Conócenos":
     st.markdown("<h2 style='text-align: center;'>Conoce al Equipo</h2>", unsafe_allow_html=True)
