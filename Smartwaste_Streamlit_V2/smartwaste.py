@@ -98,7 +98,7 @@ elif selected_page == "EcoFriend":
 
                     # Asegúrese de que el índice se haya guardado previamente usando Chroma
                     embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-                    vector_store = Chroma(persist_directory="C:/Users/inesc/Bootcamp/Module_3/Smartwaste_Streamlit_V2/vector_store", embedding_function=embeddings)
+                    vector_store = Chroma(persist_directory="C:/Users/inesc/Bootcamp/Module_3/Proyecto_Final_Smartwaste_Madrid/Smartwaste_Streamlit_V2/vector_store", embedding_function=embeddings)
                     return vector_store
                 except Exception as e:
                     st.error(f"Error al cargar el modelo RAG: {e}")
