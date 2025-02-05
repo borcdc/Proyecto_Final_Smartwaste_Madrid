@@ -1,6 +1,8 @@
 # Proyecto Final - Smart Waste 🗑️♻️
 <img src="./DATA/Smartwaste_Madrid.jpg" alt="SmartWaste Madrid" width="600"/>
 
+## 🚀 [Streamlit](https://smartwasemadrid.streamlit.app/)
+
 ## 📋 Descripción del Proyecto
 Este proyecto tiene como objetivo mejorar la gestión de residuos en la ciudad utilizando tecnologías inteligentes.
 Nos centraremos en el análisis de datos relacionados con la **limpieza urbana** en la Comunidad de Madrid. Utilizaremos un dataset proporcionado por la comunidad, que incluye información detallada sobre distintos servicios de limpieza realizados en los distritos de la ciudad. A través de este proyecto, realizaremos un análisis integral que incluirá **limpieza de datos**, un **análisis exploratorio de datos (EDA)** y la aplicación de técnicas de **machine learning**.
