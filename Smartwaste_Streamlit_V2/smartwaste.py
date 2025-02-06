@@ -53,7 +53,7 @@ def set_custom_style():
 set_custom_style()
 
 # Crear páginas
-selected_page = st.sidebar.radio("Navegación", ["Inicio", "EcoFriend", "Dashboard", "Conócenos"], index=0)
+selected_page = st.sidebar.radio("Navegación", ["Inicio", "EcoFriend", "Dashboard", "Conclusiones", "Conócenos"], index=0)
 
 if selected_page == "Inicio":
     st.markdown("<h1 style='text-align: center;'>Proyecto Smart Waste</h1>", unsafe_allow_html=True)
@@ -131,12 +131,63 @@ elif selected_page == "EcoFriend":
 
 elif selected_page == "Dashboard":
     st.markdown("<h2 style='text-align: center;'>📊 Dashboard del Proyecto</h2>", unsafe_allow_html=True)
-    st.components.v1.html(
-        """
-        <iframe title="SmartWaste_BI" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNDFiNmE5MmItMmZjNi00Zjk1LTg4NTQtYzZlZGM1ZTEyNzk0IiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-        """,
-        height=600,
-    )
+    
+    tab1, tab2, tab3, tab4 = st.tabs(["Resumen General", "Mapa de Distritos", "Residuos por Categoria", "Servicios de Limpieza"])
+    with tab1:
+        st.write('Este es resúmen de la recolección de residuos en Madrid los últimos tres años')
+        st.components.v1.html(
+            """
+            <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+            """,
+            height=600,
+        )
+
+    with tab2:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=46d13c11d01b639264b7" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
+
+    with tab3:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=0e4aae2400ec306d5025" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
+
+    with tab4:
+            st.components.v1.html(
+                """
+                <iframe title="SmartWaste_BI_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3NjVmNTAtYTEyOC00MmY5LTgzZjAtZTZhOWIyYzgyNWZlIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=766999b24eaa1c546637" frameborder="0" allowFullScreen="true"></iframe>
+                """,
+                height=600,
+            )
+
+elif selected_page == "Conclusiones":
+    st.markdown("<h2 style='text-align: center;'>Conclusiones del Análisis de Residuos</h2>", unsafe_allow_html=True)
+    st.header("Patrones de Residuos")
+    st.markdown("- La recolección de basura 'varios' fue mayor en 2022 que en 2023.")
+    st.markdown("- Picos de residuos de hojas y ramas en noviembre y diciembre.")
+    st.markdown("- No hay correlaciones fuertes entre tipos de residuos, indicando generación independiente.")
+
+    st.header("Factores Clave")
+    st.markdown("**Turismo y eventos:** Centro muestra estacionalidad en la generación de residuos.")
+    st.markdown("**Nivel socioeconómico y actividad comercial:** Salamanca y Chamartín generan más envases y embalajes.")
+    st.markdown("**Desarrollo urbano:** Proyectos como Valdecarros y Madrid Nuevo Norte aumentan residuos de construcción.")
+    st.markdown("**Zonas verdes:** Moncloa-Aravaca y Fuencarral-El Pardo generan más residuos orgánicos.")
+
+    st.header("Recomendaciones para Smart Bins")
+    st.markdown("- Medición en tiempo real y alertas automáticas.")
+    st.markdown("- Ajustes según estacionalidad y refuerzo en meses críticos (marzo y agosto).")
+    st.markdown("- Uso de IoT y algoritmos predictivos para optimizar rutas y volúmenes.")
+
+    st.header("Distritos Prioritarios para Implementación")
+    st.markdown("- **Papel y cartón:** Centro, Salamanca.")
+    st.markdown("- **Envases:** Puente de Vallecas, Villa de Vallecas.")
+    st.markdown("- **Residuos varios:** Ciudad Lineal.")
 
 elif selected_page == "Conócenos":
     st.markdown("<h2 style='text-align: center;'>Conoce al Equipo</h2>", unsafe_allow_html=True)
